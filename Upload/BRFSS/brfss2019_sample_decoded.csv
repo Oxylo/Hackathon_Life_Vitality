@@ -1,0 +1,1001 @@
+Sex_of_Respondent|General_Health|Have_any_health_care_coverage|Could_Not_See_Doctor_Because_of_Cost|Length_of_time_since_last_routine_checkup|Ever_Told_Blood_Pressure_High|Marital_Status|Education_Level|Own_or_Rent_Home|Employment_Status|Reported_Weight_in_Pounds|Smoked_at_Least_100_Cigarettes|Frequency_of_Days_Now_Smoking|Days_in_past_30_had_alcoholic_beverage|How_many_times_did_you_eat_fruit?
+F|Fair|Yes|No|[0, 1) years|Not asked or Missing|Married|5 Some college or technical school|Group home|Employed for wages|240.0|No|Not asked or Missing|3.0|4.0
+M|Good|Yes|No|Never|Not asked or Missing|Married|6 College graduate|Group home|Retired|155.0|Yes|Not at all|24.0|30.0
+M|Don’t know/Not Sure|Yes|No|[2, 5) years|Yes|Never married|6 College graduate|Group home|Self-employed|160.0|No|Not asked or Missing|28.0|180.0
+M|Good|Yes|No|[0, 1) years|Yes|Married|6 College graduate|Group home|Retired|155.0|No|Not asked or Missing|0|8.0
+F|Good|Yes|No|[0, 1) years|Not asked or Missing|Widowed|6 College graduate|Group home|Retired|130.0|No|Not asked or Missing|4.0|30.0
+F|Excellent|Yes|No|[0, 1) years|Not asked or Missing|Never married|6 College graduate|Other|A student|135.0|No|Not asked or Missing|8.0|60.0
+F|Good|Yes|No|[0, 1) years|Not asked or Missing|Never married|4 High school graduate|Rent|Employed for wages|Not asked or Missing|Not asked or Missing|Not asked or Missing|Not asked or Missing|Not asked or Missing
+M|Fair|Yes|No|[0, 1) years|Not asked or Missing|Widowed|6 College graduate|Group home|Out of work for less than 1 year|140.0|Not asked or Missing|Not asked or Missing|Not asked or Missing|Not asked or Missing
+M|Good|Yes|No|[0, 1) years|Not asked or Missing|Never married|6 College graduate|Rent|Self-employed|201.0|No|Not asked or Missing|0|12.0
+M|Good|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|Self-employed|230.0|No|Not asked or Missing|7.0|60.0
+M|Very good|Yes|No|[2, 5) years|Not asked or Missing|Married|4 High school graduate|Group home|Employed for wages|170.0|Yes|Some days|0|8.0
+F|Fair|Yes|No|[0, 1) years|Yes|Divorced|4 High school graduate|Rent|Retired|145.0|Yes|Not at all|0|60.0
+M|Good|Yes|No|[0, 1) years|Yes|Married|4 High school graduate|Group home|Retired|205.0|Yes|Not at all|0|8.0
+M|Good|Yes|No|[0, 1) years|Yes|Married|6 College graduate|Group home|Employed for wages|207.0|No|Not asked or Missing|2.0|60.0
+F|Very good|Yes|Yes|Never|Yes|A member of an unmarried couple|4 High school graduate|Other|Employed for wages|97.0|Yes|Every day|0|30.0
+F|Very good|Yes|No|[0, 1) years|Yes|Married|6 College graduate|Group home|Retired|170.0|Yes|Not at all|0|30.0
+M|Good|Yes|No|[0, 1) years|Yes|Never married|5 Some college or technical school|Rent|Employed for wages|220.0|No|Not asked or Missing|5.0|30.0
+F|Very good|Yes|Yes|[0, 1) years|Borderline high|A member of an unmarried couple|4 High school graduate|Rent|Employed for wages|205.0|Yes|Every day|2.0|30.0
+F|Very good|Yes|Yes|[0, 1) years|Not asked or Missing|Never married|5 Some college or technical school|Rent|Employed for wages|140.0|No|Not asked or Missing|4.0|60.0
+F|Good|Yes|No|[0, 1) years|Not asked or Missing|Widowed|4 High school graduate|Group home|A homemaker|112.0|No|Not asked or Missing|0|30.0
+M|Good|Yes|No|[0, 1) years|Yes|Married|6 College graduate|Group home|Retired|156.0|Yes|Not at all|0|30.0
+F|Good|Yes|No|[0, 1) years|Not asked or Missing|Divorced|6 College graduate|Group home|Employed for wages|190.0|No|Not asked or Missing|6.0|30.0
+M|Very good|Yes|No|[0, 1) years|Not asked or Missing|Never married|4 High school graduate|Rent|Self-employed|220.0|Yes|Every day|2.0|90.0
+M|Very good|No|No|[1, 2) years|Yes|Divorced|6 College graduate|Group home|Out of work for 1 year or more|265.0|Yes|Every day|4.0|8.0
+M|Very good|Yes|No|[0, 1) years|Not asked or Missing|Never married|4 High school graduate|Group home|Retired|170.0|Yes|Not at all|4.0|12.0
+F|Very good|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|Employed for wages|7777.0|No|Not asked or Missing|4.0|Not asked or Missing
+F|Very good|Yes|No|[0, 1) years|Not asked or Missing|Widowed|5 Some college or technical school|Group home|Employed for wages|162.0|Yes|Not at all|2.0|60.0
+M|Excellent|Yes|No|[0, 1) years|Not asked or Missing|Married|5 Some college or technical school|Group home|Retired|208.0|No|Not asked or Missing|0|30.0
+M|Good|Yes|No|[0, 1) years|Not asked or Missing|Married|5 Some college or technical school|Group home|Self-employed|226.0|Yes|Not at all|3.0|30.0
+F|Very good|Yes|No|[1, 2) years|Yes|Married|6 College graduate|Group home|Employed for wages|133.0|No|Not asked or Missing|0|10.0
+M|Good|Yes|No|[0, 1) years|Yes|Married|5 Some college or technical school|Group home|Employed for wages|280.0|Yes|Every day|0|60.0
+M|Good|Yes|No|[0, 1) years|Not asked or Missing|Never married|4 High school graduate|Rent|Retired|167.0|No|Not asked or Missing|0|30.0
+M|Very good|Yes|No|[0, 1) years|Yes|Married|6 College graduate|Group home|Retired|195.0|Yes|Not at all|20.0|24.0
+F|Very good|Yes|No|[0, 1) years|Yes|Never married|5 Some college or technical school|Group home|Employed for wages|200.0|No|Not asked or Missing|0|20.0
+F|Good|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Rent|Employed for wages|240.0|Yes|Some days|4.0|16.0
+M|Poor|Yes|No|[0, 1) years|Yes|Married|5 Some college or technical school|Group home|Retired|200.0|Yes|Not at all|0|16.0
+M|Very good|Yes|No|[0, 1) years|Not asked or Missing|Divorced|5 Some college or technical school|Group home|Employed for wages|215.0|No|Not asked or Missing|30.0|8.0
+F|Very good|Yes|No|[0, 1) years|Not asked or Missing|Never married|5 Some college or technical school|Rent|A homemaker|165.0|No|Not asked or Missing|8.0|16.0
+M|Excellent|Yes|No|[0, 1) years|Not asked or Missing|Never married|6 College graduate|Group home|Employed for wages|7777.0|No|Not asked or Missing|0|60.0
+F|Very good|Yes|No|[0, 1) years|Not asked or Missing|Married|4 High school graduate|Group home|Employed for wages|170.0|Yes|Not at all|2.0|30.0
+F|Very good|Yes|No|[0, 1) years|Not asked or Missing|Never married|6 College graduate|Rent|Employed for wages|190.0|No|Not asked or Missing|2.0|60.0
+M|Good|Yes|No|[0, 1) years|Not asked or Missing|Divorced|4 High school graduate|Rent|Retired|165.0|No|Not asked or Missing|5.0|30.0
+M|Very good|Yes|No|[0, 1) years|Not asked or Missing|Divorced|5 Some college or technical school|Rent|Employed for wages|235.0|No|Not asked or Missing|4.0|30.0
+M|Very good|Yes|No|[0, 1) years|Yes|Married|4 High school graduate|Group home|Self-employed|200.0|No|Not asked or Missing|4.0|30.0
+F|Excellent|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|Retired|122.0|No|Not asked or Missing|16.0|60.0
+F|Good|No|No|5+ years|Not asked or Missing|Widowed|3 Some high school|Group home|Employed for wages|101.0|Yes|Every day|0|28.0
+F|Fair|No|Yes|[0, 1) years|Yes|Never married|3 Some high school|Rent|Unable to work|176.0|Yes|Every day|Don’t know/Not sure|10.0
+M|Excellent|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|Employed for wages|180.0|No|Not asked or Missing|1.0|90.0
+F|Very good|Yes|No|[0, 1) years|Yes|Married|4 High school graduate|Group home|Retired|270.0|No|Not asked or Missing|0|12.0
+F|Good|Yes|No|[0, 1) years|Yes|Divorced|5 Some college or technical school|Group home|Employed for wages|171.0|No|Not asked or Missing|0|Not asked or Missing
+M|Fair|Yes|No|[0, 1) years|Not asked or Missing|Married|3 Some high school|Group home|Employed for wages|180.0|Yes|Every day|30.0|2.0
+M|Good|Yes|No|[0, 1) years|Yes|Married|4 High school graduate|Group home|Employed for wages|213.0|Yes|Not at all|Not asked or Missing|Not asked or Missing
+M|Good|Yes|No|5+ years|Not asked or Missing|A member of an unmarried couple|5 Some college or technical school|Group home|Employed for wages|170.0|Yes|Not at all|0|90.0
+F|Excellent|No|No|[2, 5) years|Not asked or Missing|Divorced|4 High school graduate|Rent|Employed for wages|Not asked or Missing|Not asked or Missing|Not asked or Missing|Not asked or Missing|Not asked or Missing
+F|Good|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|Employed for wages|280.0|No|Not asked or Missing|0|2.0
+F|Excellent|Yes|No|[0, 1) years|Yes|Married|6 College graduate|Group home|Retired|170.0|No|Not asked or Missing|0|90.0
+F|Excellent|Yes|No|[0, 1) years|Not asked or Missing|Divorced|4 High school graduate|Rent|Out of work for 1 year or more|200.0|No|Not asked or Missing|1.0|8.0
+F|Excellent|Yes|No|[0, 1) years|Yes|Divorced|5 Some college or technical school|Group home|Retired|105.0|Yes|Not at all|2.0|Not asked or Missing
+F|Fair|Yes|No|[0, 1) years|Yes|Widowed|5 Some college or technical school|Group home|Unable to work|9999.0|No|Not asked or Missing|8.0|1.0
+F|Good|Yes|No|[0, 1) years|Yes|Widowed|6 College graduate|Group home|Retired|195.0|Yes|Not at all|2.0|30.0
+F|Good|Yes|No|[0, 1) years|Yes|Widowed|4 High school graduate|Group home|Employed for wages|190.0|Yes|Every day|0|30.0
+M|Good|Yes|No|[0, 1) years|Yes|Divorced|5 Some college or technical school|Group home|Retired|210.0|Yes|Not at all|10.0|30.0
+M|Very good|Yes|No|[0, 1) years|Not asked or Missing|Never married|6 College graduate|Group home|Self-employed|210.0|Yes|Not at all|25.0|60.0
+M|Excellent|Yes|No|[0, 1) years|Not asked or Missing|Never married|4 High school graduate|Group home|Self-employed|150.0|No|Not asked or Missing|8.0|30.0
+F|Very good|Yes|No|[0, 1) years|Not asked or Missing|Never married|5 Some college or technical school|Group home|Employed for wages|230.0|No|Not asked or Missing|0|30.0
+M|Very good|Yes|No|[0, 1) years|Yes|Married|6 College graduate|Group home|Employed for wages|212.0|No|Not asked or Missing|1.0|30.0
+F|Excellent|Yes|No|5+ years|Not asked or Missing|A member of an unmarried couple|6 College graduate|Rent|Self-employed|170.0|No|Not asked or Missing|20.0|60.0
+F|Good|Yes|No|[0, 1) years|Yes|Married|5 Some college or technical school|Group home|Retired|136.0|Yes|Not at all|25.0|8.0
+F|Very good|Yes|No|[0, 1) years|Yes|Never married|6 College graduate|Group home|Retired|250.0|No|Not asked or Missing|0|16.0
+M|Good|Yes|No|[0, 1) years|Yes|Married|4 High school graduate|Group home|Self-employed|215.0|Yes|Not at all|1.0|15.0
+M|Very good|No|No|[1, 2) years|Not asked or Missing|Married|4 High school graduate|Group home|Self-employed|186.0|No|Not asked or Missing|0|Not asked or Missing
+F|Very good|Yes|No|[0, 1) years|Not asked or Missing|Widowed|4 High school graduate|Group home|Retired|145.0|Yes|Not at all|3.0|Never
+F|Excellent|Yes|No|[1, 2) years|Not asked or Missing|Married|6 College graduate|Group home|Self-employed|130.0|No|Not asked or Missing|0|30.0
+M|Good|No|No|Never|Not asked or Missing|Never married|3 Some high school|Rent|Employed for wages|180.0|Yes|Every day|0|12.0
+M|Good|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|Employed for wages|170.0|No|Not asked or Missing|1.0|20.0
+F|Poor|Yes|No|[1, 2) years|Yes|Widowed|5 Some college or technical school|Group home|Retired|125.0|No|Not asked or Missing|0|30.0
+F|Very good|Yes|No|[0, 1) years|Yes|Never married|6 College graduate|Group home|Employed for wages|247.0|No|Not asked or Missing|4.0|90.0
+F|Very good|Yes|No|[1, 2) years|Yes, only during pregnancy|Never married|5 Some college or technical school|Rent|A student|170.0|No|Not asked or Missing|20.0|30.0
+F|Good|Yes|No|[0, 1) years|Not asked or Missing|Married|4 High school graduate|Rent|Employed for wages|198.0|Yes|Not at all|0|30.0
+F|Good|No|Yes|[2, 5) years|Yes|Never married|4 High school graduate|Other|Unable to work|160.0|Yes|Every day|10.0|40.0
+M|Very good|Yes|No|[0, 1) years|Yes|Married|4 High school graduate|Group home|Retired|225.0|Yes|Not at all|1.0|30.0
+M|Very good|Yes|No|[0, 1) years|Yes|Divorced|5 Some college or technical school|Group home|Employed for wages|175.0|Yes|Not at all|30.0|20.0
+F|Very good|Yes|No|[0, 1) years|Yes|Married|4 High school graduate|Group home|Retired|215.0|Yes|Every day|15.0|5.0
+M|Very good|Yes|No|[0, 1) years|Yes|Married|4 High school graduate|Group home|Employed for wages|300.0|No|Not asked or Missing|0|Not asked or Missing
+M|Good|Yes|No|[0, 1) years|Yes|Widowed|6 College graduate|Group home|Retired|180.0|Yes|Every day|0|60.0
+M|Good|Yes|No|[0, 1) years|Not asked or Missing|Married|4 High school graduate|Group home|Retired|170.0|Not asked or Missing|Not asked or Missing|Not asked or Missing|Not asked or Missing
+F|Good|Yes|No|[0, 1) years|Not asked or Missing|Divorced|5 Some college or technical school|Group home|Unable to work|100.0|Yes|Not at all|0|4.0
+M|Good|Yes|No|[0, 1) years|Not asked or Missing|Married|5 Some college or technical school|Group home|Retired|195.0|No|Not asked or Missing|4.0|12.0
+F|Good|Yes|No|[0, 1) years|Not asked or Missing|A member of an unmarried couple|5 Some college or technical school|Group home|Employed for wages|200.0|No|Not asked or Missing|4.0|16.0
+F|Good|Yes|No|[0, 1) years|Not asked or Missing|Married|5 Some college or technical school|Group home|Self-employed|200.0|No|Not asked or Missing|0|12.0
+M|Very good|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|Retired|185.0|No|Not asked or Missing|25.0|60.0
+M|Good|Yes|No|[0, 1) years|Not asked or Missing|Divorced|5 Some college or technical school|Group home|Retired|180.0|Yes|Not at all|5.0|30.0
+M|Very good|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|Self-employed|250.0|Yes|Not at all|28.0|8.0
+F|Good|Yes|No|[0, 1) years|Yes|Married|5 Some college or technical school|Rent|Employed for wages|195.0|Yes|Not at all|1.0|30.0
+F|Very good|Yes|Yes|[0, 1) years|Yes|Married|5 Some college or technical school|Rent|Employed for wages|146.0|No|Not asked or Missing|0|16.0
+M|Excellent|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|Self-employed|160.0|No|Not asked or Missing|0|90.0
+M|Fair|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|Retired|200.0|Yes|Not at all|0|210.0
+F|Good|Yes|No|[0, 1) years|Yes|Widowed|4 High school graduate|Group home|A homemaker|152.0|Yes|Not at all|0|5.0
+M|Very good|Yes|No|[0, 1) years|Yes|Married|4 High school graduate|Group home|Retired|190.0|No|Not asked or Missing|1.0|20.0
+F|Excellent|Yes|No|[0, 1) years|Not asked or Missing|Married|5 Some college or technical school|Group home|Employed for wages|158.0|No|Not asked or Missing|30.0|30.0
+M|Excellent|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|Employed for wages|235.0|No|Not asked or Missing|0|60.0
+F|Excellent|Yes|No|[0, 1) years|Yes|Married|6 College graduate|Group home|Retired|125.0|Yes|Not at all|4.0|30.0
+F|Excellent|Yes|No|[0, 1) years|Not asked or Missing|Married|4 High school graduate|Group home|Employed for wages|180.0|Yes|Not at all|4.0|4.0
+F|Good|Yes|No|[0, 1) years|Not asked or Missing|Married|5 Some college or technical school|Group home|A homemaker|115.0|Yes|Not at all|0|60.0
+F|Very good|No|No|[0, 1) years|Not asked or Missing|Widowed|5 Some college or technical school|Group home|Retired|180.0|No|Not asked or Missing|0|16.0
+F|Good|Yes|No|[0, 1) years|Yes|Married|6 College graduate|Refused|Retired|153.0|No|Not asked or Missing|0|60.0
+F|Excellent|Yes|Yes|[0, 1) years|Not asked or Missing|Never married|4 High school graduate|Rent|Employed for wages|224.0|No|Not asked or Missing|Not asked or Missing|Not asked or Missing
+F|Very good|Yes|No|[0, 1) years|Not asked or Missing|Widowed|5 Some college or technical school|Group home|Employed for wages|130.0|Don’t know/Not Sure|Not asked or Missing|8.0|28.0
+M|Very good|Yes|Yes|[0, 1) years|Not asked or Missing|Never married|6 College graduate|Rent|Employed for wages|145.0|Yes|Every day|26.0|8.0
+F|Very good|Yes|No|[0, 1) years|Not asked or Missing|Married|5 Some college or technical school|Rent|A homemaker|140.0|Yes|Not at all|0|12.0
+F|Very good|Yes|No|[0, 1) years|Yes|Married|4 High school graduate|Group home|Employed for wages|147.0|No|Not asked or Missing|8.0|30.0
+F|Very good|Yes|No|[0, 1) years|Not asked or Missing|Married|5 Some college or technical school|Group home|Employed for wages|145.0|Yes|Not at all|1.0|24.0
+M|Good|Yes|No|[0, 1) years|Yes|Married|5 Some college or technical school|Group home|Employed for wages|220.0|Yes|Every day|28.0|6.0
+F|Very good|Yes|Yes|[2, 5) years|Not asked or Missing|Never married|6 College graduate|Rent|Employed for wages|9052.0|Yes|Every day|1.0|8.0
+M|Very good|Yes|No|5+ years|Not asked or Missing|Married|3 Some high school|Other|Employed for wages|165.0|Yes|Not at all|8.0|30.0
+M|Good|Yes|No|[1, 2) years|Not asked or Missing|Never married|6 College graduate|Rent|Employed for wages|220.0|Yes|Not at all|10.0|30.0
+M|Fair|Yes|No|[0, 1) years|Yes|Married|5 Some college or technical school|Group home|Unable to work|270.0|Yes|Every day|0|12.0
+M|Very good|Yes|No|[0, 1) years|Yes|Married|6 College graduate|Group home|Refused|190.0|Don’t know/Not Sure|Not asked or Missing|0|30.0
+F|Good|Yes|No|[0, 1) years|Yes|Separated|4 High school graduate|Rent|Employed for wages|7777.0|Yes|Not at all|0|8.0
+M|Excellent|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|Retired|170.0|No|Not asked or Missing|1.0|30.0
+M|Poor|Yes|Yes|[2, 5) years|Yes|Married|5 Some college or technical school|Group home|A student|175.0|Yes|Every day|Don’t know/Not sure|Never
+F|Fair|Yes|No|[0, 1) years|Yes|Married|5 Some college or technical school|Group home|Unable to work|160.0|Yes|Every day|0|30.0
+M|Good|Yes|No|[0, 1) years|Not asked or Missing|Never married|4 High school graduate|Rent|Employed for wages|210.0|No|Not asked or Missing|0|Not asked or Missing
+F|Excellent|Yes|No|[0, 1) years|Not asked or Missing|Married|5 Some college or technical school|Group home|Retired|175.0|Yes|Not at all|0|12.0
+M|Fair|Yes|Yes|[0, 1) years|Not asked or Missing|A member of an unmarried couple|3 Some high school|Rent|Employed for wages|203.0|No|Not asked or Missing|12.0|16.0
+M|Good|Yes|No|[0, 1) years|Yes|Divorced|4 High school graduate|Group home|Unable to work|200.0|Yes|Some days|0|15.0
+M|Good|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|Retired|215.0|No|Not asked or Missing|20.0|40.0
+M|Good|Yes|No|[0, 1) years|Not asked or Missing|Married|5 Some college or technical school|Group home|Employed for wages|225.0|Don’t know/Not Sure|Not asked or Missing|2.0|4.0
+F|Very good|Yes|No|[0, 1) years|Yes|Widowed|5 Some college or technical school|Group home|Retired|117.0|No|Not asked or Missing|0|20.0
+F|Very good|Yes|No|[1, 2) years|Not asked or Missing|Widowed|4 High school graduate|Group home|Retired|9999.0|Not asked or Missing|Not asked or Missing|Not asked or Missing|Not asked or Missing
+M|Good|Yes|No|[0, 1) years|Not asked or Missing|Never married|5 Some college or technical school|Group home|Employed for wages|230.0|Yes|Not at all|2.0|20.0
+M|Good|Yes|No|[1, 2) years|Not asked or Missing|Never married|5 Some college or technical school|Rent|A student|236.0|No|Not asked or Missing|0|12.0
+M|Good|Yes|No|5+ years|Not asked or Missing|Married|5 Some college or technical school|Group home|Employed for wages|160.0|No|Not asked or Missing|0|12.0
+F|Good|Yes|No|[0, 1) years|Not asked or Missing|Never married|5 Some college or technical school|Rent|A student|145.0|No|Not asked or Missing|12.0|8.0
+F|Very good|Yes|No|[0, 1) years|Not asked or Missing|Never married|6 College graduate|Rent|Employed for wages|240.0|No|Not asked or Missing|0|90.0
+F|Fair|No|Yes|[0, 1) years|Not asked or Missing|Divorced|4 High school graduate|Rent|Unable to work|Not asked or Missing|Not asked or Missing|Not asked or Missing|Not asked or Missing|Not asked or Missing
+F|Very good|Yes|No|[0, 1) years|Not asked or Missing|Married|5 Some college or technical school|Rent|Employed for wages|230.0|No|Not asked or Missing|Don’t know/Not sure|4.0
+F|Good|No|No|[0, 1) years|Not asked or Missing|Married|5 Some college or technical school|Group home|Self-employed|150.0|Not asked or Missing|Not asked or Missing|Not asked or Missing|Not asked or Missing
+M|Poor|No|No|[1, 2) years|Not asked or Missing|Divorced|5 Some college or technical school|Rent|Employed for wages|180.0|Yes|Not at all|0|20.0
+M|Very good|Yes|No|[0, 1) years|Not asked or Missing|Divorced|3 Some high school|Rent|Employed for wages|215.0|Yes|Not at all|0|8.0
+F|Good|Yes|No|[0, 1) years|Not asked or Missing|Divorced|5 Some college or technical school|Group home|Retired|154.0|Yes|Not at all|0|16.0
+F|Excellent|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Rent|Employed for wages|143.0|No|Not asked or Missing|20.0|90.0
+M|Fair|Yes|Yes|[2, 5) years|Not asked or Missing|Never married|6 College graduate|Rent|Employed for wages|109.0|Yes|Not at all|2.0|4.0
+M|Fair|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|Retired|238.0|Yes|Not at all|0|210.0
+F|Very good|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|Employed for wages|170.0|Yes|Not at all|4.0|30.0
+F|Excellent|Yes|No|Don’t know/Not sure|Not asked or Missing|Married|6 College graduate|Group home|Employed for wages|165.0|No|Not asked or Missing|12.0|60.0
+F|Very good|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|A homemaker|175.0|No|Not asked or Missing|0|90.0
+F|Excellent|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|Employed for wages|9999.0|No|Not asked or Missing|1.0|30.0
+F|Good|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|Employed for wages|194.0|No|Not asked or Missing|0|60.0
+F|Excellent|Yes|Yes|[0, 1) years|Yes|Divorced|6 College graduate|Group home|Employed for wages|176.0|No|Not asked or Missing|0|30.0
+M|Poor|Yes|No|[0, 1) years|Yes|Married|6 College graduate|Group home|Retired|135.0|Yes|Not at all|4.0|Never
+F|Good|Yes|No|[0, 1) years|Not asked or Missing|Divorced|6 College graduate|Rent|Retired|120.0|Yes|Not at all|0|30.0
+F|Excellent|Yes|No|[2, 5) years|Not asked or Missing|Married|5 Some college or technical school|Group home|Self-employed|165.0|Yes|Not at all|8.0|2.0
+M|Poor|Yes|No|[0, 1) years|Not asked or Missing|Married|5 Some college or technical school|Group home|Retired|185.0|Yes|Not at all|0|12.0
+F|Fair|Yes|No|[0, 1) years|Yes|Married|3 Some high school|Rent|Unable to work|285.0|No|Not asked or Missing|0|1.0
+F|Fair|Yes|No|[0, 1) years|Yes|Divorced|4 High school graduate|Rent|Unable to work|190.0|Yes|Every day|Don’t know/Not sure|30.0
+F|Very good|Yes|Yes|[2, 5) years|Not asked or Missing|A member of an unmarried couple|6 College graduate|Group home|Employed for wages|200.0|No|Not asked or Missing|2.0|60.0
+M|Excellent|Yes|No|[0, 1) years|Not asked or Missing|Never married|6 College graduate|Group home|Employed for wages|165.0|No|Not asked or Missing|1.0|60.0
+M|Good|Yes|No|[0, 1) years|Yes|Married|5 Some college or technical school|Group home|Self-employed|Not asked or Missing|Not asked or Missing|Not asked or Missing|Not asked or Missing|Not asked or Missing
+M|Good|Yes|No|[0, 1) years|Yes|Married|4 High school graduate|Group home|Employed for wages|230.0|No|Not asked or Missing|0|8.0
+F|Excellent|Yes|No|[0, 1) years|Not asked or Missing|Never married|6 College graduate|Group home|Employed for wages|9999.0|Not asked or Missing|Not asked or Missing|Not asked or Missing|Not asked or Missing
+F|Good|Yes|No|[0, 1) years|Not asked or Missing|Married|4 High school graduate|Group home|A homemaker|9999.0|No|Not asked or Missing|0|12.0
+F|Very good|Yes|No|[0, 1) years|Yes|Divorced|4 High school graduate|Group home|Retired|140.0|Yes|Every day|0|16.0
+M|Very good|Yes|No|[0, 1) years|Yes|Married|5 Some college or technical school|Group home|Employed for wages|202.0|No|Not asked or Missing|4.0|30.0
+F|Good|Yes|No|[0, 1) years|Yes|Married|5 Some college or technical school|Group home|Retired|170.0|Yes|Not at all|0|30.0
+M|Very good|Yes|No|[0, 1) years|Yes|Married|5 Some college or technical school|Group home|Retired|195.0|No|Not asked or Missing|0|16.0
+F|Excellent|Yes|No|[0, 1) years|Not asked or Missing|Married|4 High school graduate|Group home|Retired|155.0|No|Not asked or Missing|1.0|60.0
+F|Very good|Yes|No|[0, 1) years|Yes|Married|5 Some college or technical school|Group home|Retired|150.0|No|Not asked or Missing|0|30.0
+M|Good|Yes|No|[0, 1) years|Yes|Married|2 Elementary|Group home|Employed for wages|195.0|Yes|Not at all|0|Not asked or Missing
+F|Fair|Yes|No|[0, 1) years|Yes|Married|4 High school graduate|Group home|Retired|200.0|No|Not asked or Missing|1.0|8.0
+M|Very good|Yes|No|[1, 2) years|Don´t know/Not Sure|Married|5 Some college or technical school|Group home|Employed for wages|250.0|No|Not asked or Missing|7.0|4.0
+M|Very good|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|Retired|240.0|No|Not asked or Missing|2.0|30.0
+F|Excellent|Yes|No|[0, 1) years|Yes|Widowed|6 College graduate|Group home|Retired|165.0|No|Not asked or Missing|1.0|30.0
+F|Good|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|Employed for wages|9999.0|No|Not asked or Missing|0|30.0
+F|Very good|Yes|No|[0, 1) years|Not asked or Missing|Divorced|6 College graduate|Group home|Retired|200.0|No|Not asked or Missing|8.0|4.0
+F|Excellent|Yes|No|[1, 2) years|Not asked or Missing|Married|6 College graduate|Group home|Retired|160.0|Not asked or Missing|Not asked or Missing|Not asked or Missing|Not asked or Missing
+F|Very good|Yes|No|[0, 1) years|Not asked or Missing|Divorced|6 College graduate|Rent|Employed for wages|127.0|Yes|Not at all|3.0|16.0
+M|Good|Yes|No|[1, 2) years|Yes|Never married|5 Some college or technical school|Other|A student|192.0|Yes|Not at all|10.0|20.0
+F|Very good|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|Employed for wages|158.0|No|Not asked or Missing|20.0|8.0
+M|Good|Yes|No|5+ years|Not asked or Missing|Divorced|5 Some college or technical school|Other|Out of work for 1 year or more|175.0|Yes|Every day|30.0|Never
+M|Good|Yes|No|[0, 1) years|Yes|Married|5 Some college or technical school|Group home|Employed for wages|290.0|Yes|Not at all|1.0|8.0
+F|Excellent|Yes|No|[0, 1) years|Not asked or Missing|Married|4 High school graduate|Group home|A homemaker|115.0|No|Not asked or Missing|0|30.0
+F|Fair|Yes|Don’t know/Not sure|[0, 1) years|Yes|Never married|4 High school graduate|Rent|Unable to work|180.0|No|Not asked or Missing|0|30.0
+F|Good|Yes|No|[1, 2) years|Not asked or Missing|Divorced|4 High school graduate|Group home|Unable to work|128.0|Yes|Every day|0|10.0
+F|Good|Yes|No|[0, 1) years|Yes|Married|6 College graduate|Group home|Retired|120.0|No|Not asked or Missing|0|30.0
+F|Poor|Yes|Yes|[0, 1) years|Not asked or Missing|Never married|6 College graduate|Group home|Self-employed|144.0|No|Not asked or Missing|7.0|60.0
+F|Excellent|Yes|No|[0, 1) years|Not asked or Missing|Married|4 High school graduate|Group home|Employed for wages|175.0|Yes|Every day|1.0|4.0
+M|Fair|Yes|No|[0, 1) years|Yes|Widowed|2 Elementary|Group home|Retired|176.0|Yes|Not at all|1.0|2.0
+F|Good|Yes|No|[1, 2) years|Yes|Divorced|4 High school graduate|Rent|Unable to work|210.0|Yes|Every day|0|8.0
+F|Poor|Yes|No|[0, 1) years|Yes|Widowed|3 Some high school|Other|Unable to work|170.0|Yes|Not at all|0|1.0
+F|Poor|Yes|No|5+ years|Not asked or Missing|Widowed|3 Some high school|Group home|A homemaker|120.0|Yes|Every day|0|60.0
+F|Excellent|Yes|No|[0, 1) years|Not asked or Missing|Never married|3 Some high school|Group home|Out of work for 1 year or more|123.0|No|Not asked or Missing|0|30.0
+M|Very good|Yes|No|5+ years|Not asked or Missing|Married|6 College graduate|Group home|Employed for wages|195.0|Not asked or Missing|Not asked or Missing|Not asked or Missing|Not asked or Missing
+M|Good|Yes|No|[1, 2) years|Not asked or Missing|Married|5 Some college or technical school|Group home|Employed for wages|165.0|No|Not asked or Missing|28.0|Never
+F|Very good|Yes|No|[0, 1) years|Not asked or Missing|Married|5 Some college or technical school|Group home|Out of work for less than 1 year|148.0|Yes|Not at all|24.0|210.0
+F|Excellent|No|Yes|[0, 1) years|Yes|Married|2 Elementary|Group home|Refused|9999.0|No|Not asked or Missing|0|Refused
+F|Very good|Yes|No|[0, 1) years|Not asked or Missing|Divorced|5 Some college or technical school|Group home|Retired|114.0|No|Not asked or Missing|0|30.0
+M|Good|Yes|No|[0, 1) years|Yes|Divorced|3 Some high school|Group home|Unable to work|227.0|Yes|Not at all|0|2.0
+M|Very good|Yes|No|[0, 1) years|Yes|Married|5 Some college or technical school|Group home|Employed for wages|227.0|No|Not asked or Missing|0|20.0
+M|Fair|No|Yes|[0, 1) years|Yes|Divorced|3 Some high school|Rent|Unable to work|215.0|No|Not asked or Missing|30.0|8.0
+M|Good|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|Employed for wages|190.0|Yes|Not at all|28.0|8.0
+F|Fair|Yes|No|[0, 1) years|Yes|Married|5 Some college or technical school|Rent|Employed for wages|260.0|Yes|Some days|0|30.0
+F|Good|Yes|No|[0, 1) years|Not asked or Missing|Divorced|4 High school graduate|Group home|Employed for wages|170.0|Yes|Not at all|4.0|12.0
+M|Very good|Yes|No|[0, 1) years|Yes|Never married|6 College graduate|Group home|Employed for wages|185.0|No|Not asked or Missing|0|30.0
+F|Very good|No|Yes|5+ years|Not asked or Missing|Divorced|6 College graduate|Rent|Out of work for less than 1 year|117.0|No|Not asked or Missing|0|16.0
+F|Very good|No|No|[0, 1) years|Yes|Married|4 High school graduate|Group home|Self-employed|145.0|Yes|Every day|5.0|2.0
+M|Very good|Yes|No|[0, 1) years|Yes|Married|5 Some college or technical school|Group home|Self-employed|200.0|No|Not asked or Missing|10.0|30.0
+F|Good|Yes|No|[0, 1) years|Yes|Never married|6 College graduate|Group home|Retired|183.0|No|Not asked or Missing|30.0|30.0
+F|Good|Yes|No|[0, 1) years|Not asked or Missing|Married|3 Some high school|Group home|Unable to work|201.0|No|Not asked or Missing|0|60.0
+M|Excellent|Yes|No|[0, 1) years|Yes|A member of an unmarried couple|6 College graduate|Group home|Employed for wages|180.0|Yes|Not at all|8.0|60.0
+F|Fair|Yes|No|[0, 1) years|Not asked or Missing|Married|4 High school graduate|Group home|Employed for wages|250.0|No|Not asked or Missing|1.0|90.0
+M|Poor|Yes|No|[0, 1) years|Don´t know/Not Sure|Divorced|3 Some high school|Group home|Unable to work|333.0|Yes|Not at all|0|24.0
+F|Good|Yes|No|[0, 1) years|Yes|Divorced|4 High school graduate|Group home|Unable to work|200.0|Yes|Some days|0|60.0
+M|Very good|Yes|No|[1, 2) years|Not asked or Missing|Never married|4 High school graduate|Rent|Employed for wages|180.0|Yes|Not at all|3.0|5.0
+F|Good|Yes|No|[0, 1) years|Yes|Never married|6 College graduate|Group home|Employed for wages|190.0|Yes|Not at all|0|16.0
+F|Excellent|Yes|No|[1, 2) years|Not asked or Missing|Married|6 College graduate|Group home|Employed for wages|128.0|No|Not asked or Missing|4.0|28.0
+F|Very good|Yes|No|[0, 1) years|Yes|Married|6 College graduate|Group home|Self-employed|152.0|Yes|Not at all|0|60.0
+M|Excellent|Yes|No|[0, 1) years|Borderline high|Married|6 College graduate|Group home|Self-employed|175.0|No|Not asked or Missing|4.0|8.0
+M|Very good|Yes|No|[0, 1) years|Yes|Widowed|4 High school graduate|Rent|Retired|159.0|Yes|Every day|0|Never
+F|Very good|Yes|No|[0, 1) years|Yes|Married|5 Some college or technical school|Group home|Employed for wages|230.0|No|Not asked or Missing|0|90.0
+M|Good|Yes|No|[0, 1) years|Not asked or Missing|Never married|4 High school graduate|Group home|Retired|225.0|No|Not asked or Missing|24.0|1.0
+F|Good|Yes|No|[0, 1) years|Yes|Married|4 High school graduate|Group home|Retired|140.0|No|Not asked or Missing|0|30.0
+F|Fair|Yes|No|[0, 1) years|Yes|Married|6 College graduate|Group home|Unable to work|271.0|Yes|Every day|1.0|5.0
+F|Very good|Yes|No|[0, 1) years|Not asked or Missing|Married|4 High school graduate|Group home|Retired|160.0|No|Not asked or Missing|0|30.0
+M|Very good|Yes|No|[0, 1) years|Not asked or Missing|Married|4 High school graduate|Group home|Employed for wages|170.0|No|Not asked or Missing|1.0|120.0
+M|Very good|Yes|No|[0, 1) years|Not asked or Missing|Never married|6 College graduate|Group home|Employed for wages|172.0|No|Not asked or Missing|Don’t know/Not sure|1.0
+M|Fair|Yes|No|[0, 1) years|Not asked or Missing|Married|5 Some college or technical school|Group home|Employed for wages|215.0|No|Not asked or Missing|Refused|90.0
+F|Good|Yes|No|[0, 1) years|Yes|Divorced|5 Some college or technical school|Rent|Unable to work|160.0|Yes|Some days|0|10.0
+F|Good|Yes|No|[0, 1) years|Not asked or Missing|Married|2 Elementary|Rent|A homemaker|152.0|Yes|Some days|0|8.0
+F|Good|Yes|No|[2, 5) years|Not asked or Missing|Married|5 Some college or technical school|Group home|Employed for wages|123.0|Yes|Not at all|Not asked or Missing|Not asked or Missing
+F|Fair|Yes|No|[0, 1) years|Yes|Widowed|6 College graduate|Group home|A homemaker|130.0|No|Not asked or Missing|0|60.0
+M|Good|Yes|Yes|[0, 1) years|Yes|Married|5 Some college or technical school|Group home|Retired|165.0|Yes|Not at all|15.0|30.0
+M|Very good|Yes|No|[2, 5) years|Not asked or Missing|Never married|6 College graduate|Other|Employed for wages|180.0|No|Not asked or Missing|5.0|4.0
+F|Good|Yes|No|[0, 1) years|Not asked or Missing|Divorced|2 Elementary|Group home|Retired|107.0|Yes|Not at all|0|Don’t know/Not sure
+F|Good|Yes|No|[1, 2) years|Not asked or Missing|Widowed|4 High school graduate|Group home|A homemaker|164.0|No|Not asked or Missing|5.0|8.0
+F|Good|Yes|No|[0, 1) years|Yes|Married|5 Some college or technical school|Group home|Retired|240.0|No|Not asked or Missing|0|8.0
+M|Fair|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|Employed for wages|205.0|No|Not asked or Missing|0|20.0
+F|Excellent|Yes|No|[0, 1) years|Not asked or Missing|Married|5 Some college or technical school|Group home|Refused|130.0|No|Not asked or Missing|0|Not asked or Missing
+F|Good|No|No|[0, 1) years|Not asked or Missing|Married|3 Some high school|Group home|Employed for wages|195.0|Not asked or Missing|Not asked or Missing|Not asked or Missing|Not asked or Missing
+F|Excellent|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|Employed for wages|146.0|No|Not asked or Missing|12.0|28.0
+F|Poor|Yes|No|[0, 1) years|Yes|Married|5 Some college or technical school|Group home|Retired|130.0|Yes|Not at all|0|4.0
+F|Very good|Yes|No|[0, 1) years|Not asked or Missing|Never married|6 College graduate|Rent|Employed for wages|280.0|No|Not asked or Missing|12.0|30.0
+F|Very good|Yes|No|[0, 1) years|Yes|Married|6 College graduate|Group home|Employed for wages|212.0|No|Not asked or Missing|1.0|6.0
+F|Fair|Yes|No|[0, 1) years|Not asked or Missing|Never married|4 High school graduate|Group home|Retired|127.0|Yes|Not at all|0|30.0
+M|Excellent|Yes|No|[0, 1) years|Yes|Married|5 Some college or technical school|Group home|Self-employed|200.0|Yes|Not at all|0|30.0
+M|Excellent|Yes|No|[0, 1) years|Not asked or Missing|Married|5 Some college or technical school|Group home|Employed for wages|105.0|No|Not asked or Missing|2.0|180.0
+F|Good|No|No|[0, 1) years|Yes|Never married|6 College graduate|Other|Employed for wages|206.0|No|Not asked or Missing|0|90.0
+M|Fair|Yes|Yes|[1, 2) years|Not asked or Missing|Separated|2 Elementary|Rent|Unable to work|180.0|Yes|Every day|0|Never
+F|Excellent|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|Retired|115.0|Yes|Not at all|3.0|90.0
+F|Good|Yes|No|[0, 1) years|Not asked or Missing|Separated|2 Elementary|Rent|Employed for wages|200.0|No|Not asked or Missing|0|30.0
+F|Excellent|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|Employed for wages|115.0|Yes|Not at all|0|180.0
+F|Good|Yes|No|[0, 1) years|Not asked or Missing|Married|5 Some college or technical school|Group home|Retired|128.0|No|Not asked or Missing|0|40.0
+F|Very good|Yes|No|[2, 5) years|Not asked or Missing|Never married|5 Some college or technical school|Other|Employed for wages|200.0|No|Not asked or Missing|1.0|16.0
+M|Very good|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|Employed for wages|190.0|No|Not asked or Missing|0|60.0
+F|Very good|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|Retired|160.0|Yes|Not at all|6.0|60.0
+F|Fair|Yes|No|[0, 1) years|Yes|Divorced|5 Some college or technical school|Group home|Employed for wages|230.0|No|Not asked or Missing|0|60.0
+F|Very good|No|Yes|5+ years|Not asked or Missing|Never married|6 College graduate|Other|Employed for wages|165.0|No|Not asked or Missing|0|60.0
+F|Good|Yes|No|[0, 1) years|Yes|Widowed|4 High school graduate|Group home|A homemaker|200.0|No|Not asked or Missing|0|60.0
+F|Fair|Yes|No|[0, 1) years|Not asked or Missing|Divorced|4 High school graduate|Group home|Retired|120.0|Yes|Every day|0|30.0
+F|Good|Yes|Yes|[0, 1) years|Yes, only during pregnancy|Married|4 High school graduate|Rent|Employed for wages|9999.0|No|Not asked or Missing|0|Not asked or Missing
+F|Poor|Yes|No|[0, 1) years|Yes|Widowed|2 Elementary|Group home|Retired|119.0|Yes|Not at all|0|30.0
+F|Excellent|Yes|No|[0, 1) years|Borderline high|Married|6 College graduate|Group home|Self-employed|150.0|No|Not asked or Missing|20.0|20.0
+F|Fair|Yes|Yes|Never|Not asked or Missing|Never married|4 High school graduate|Group home|Out of work for less than 1 year|150.0|Yes|Every day|0|30.0
+F|Fair|Yes|No|[0, 1) years|Not asked or Missing|Married|5 Some college or technical school|Group home|Retired|9999.0|Yes|Not at all|0|60.0
+F|Very good|Yes|No|[2, 5) years|Not asked or Missing|Married|6 College graduate|Group home|Self-employed|140.0|No|Not asked or Missing|6.0|30.0
+M|Good|Yes|No|[0, 1) years|Yes|Married|4 High school graduate|Group home|Self-employed|135.0|No|Not asked or Missing|0|30.0
+F|Very good|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|Retired|155.0|No|Not asked or Missing|15.0|90.0
+F|Good|No|Yes|[0, 1) years|Not asked or Missing|Married|5 Some college or technical school|Group home|Employed for wages|145.0|Yes|Some days|30.0|12.0
+F|Very good|Yes|No|[0, 1) years|Not asked or Missing|Separated|6 College graduate|Group home|A homemaker|200.0|No|Not asked or Missing|0|120.0
+M|Good|Yes|No|[1, 2) years|Not asked or Missing|Widowed|3 Some high school|Group home|Employed for wages|195.0|Yes|Some days|0|4.0
+M|Excellent|No|No|Don’t know/Not sure|Not asked or Missing|Never married|4 High school graduate|Group home|Retired|9999.0|No|Not asked or Missing|0|0.0
+F|Fair|Yes|No|[0, 1) years|Yes|Widowed|3 Some high school|Group home|A homemaker|7777.0|Yes|Some days|0|5.0
+F|Excellent|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|A homemaker|116.0|No|Not asked or Missing|2.0|60.0
+M|Excellent|Yes|No|[0, 1) years|Yes|Never married|6 College graduate|Rent|A student|150.0|No|Not asked or Missing|1.0|8.0
+M|Fair|Yes|No|[0, 1) years|Yes|Married|6 College graduate|Group home|Retired|205.0|No|Not asked or Missing|5.0|30.0
+F|Very good|Yes|No|[0, 1) years|Not asked or Missing|Married|4 High school graduate|Group home|Retired|140.0|No|Not asked or Missing|0|60.0
+F|Good|Yes|No|5+ years|Not asked or Missing|Widowed|4 High school graduate|Group home|A homemaker|170.0|Yes|Not at all|4.0|90.0
+F|Excellent|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Rent|Employed for wages|132.0|No|Not asked or Missing|0|30.0
+F|Excellent|Yes|No|[1, 2) years|Yes|Married|6 College graduate|Group home|Employed for wages|9999.0|Yes|Not at all|5.0|30.0
+M|Good|Yes|No|[0, 1) years|Not asked or Missing|Never married|4 High school graduate|Other|A student|205.0|No|Not asked or Missing|1.0|5.0
+F|Good|Yes|No|[0, 1) years|Yes|Widowed|4 High school graduate|Group home|Retired|108.0|Yes|Not at all|0|90.0
+F|Excellent|Yes|No|[0, 1) years|Yes|Married|6 College graduate|Group home|Employed for wages|133.0|No|Not asked or Missing|2.0|210.0
+M|Good|Yes|Yes|[0, 1) years|Yes|Married|6 College graduate|Group home|Employed for wages|230.0|Yes|Not at all|4.0|60.0
+F|Excellent|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|Employed for wages|165.0|No|Not asked or Missing|0|16.0
+M|Poor|Yes|No|[0, 1) years|Yes|Married|5 Some college or technical school|Group home|Retired|370.0|Yes|Not at all|0|3.0
+M|Very good|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|Employed for wages|230.0|No|Not asked or Missing|0|30.0
+M|Excellent|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|Employed for wages|230.0|No|Not asked or Missing|4.0|90.0
+M|Good|Yes|No|[0, 1) years|Yes|Married|5 Some college or technical school|Group home|Employed for wages|280.0|No|Not asked or Missing|0|2.0
+F|Good|Yes|No|[0, 1) years|Not asked or Missing|Divorced|6 College graduate|Rent|Retired|118.0|No|Not asked or Missing|2.0|8.0
+M|Good|No|No|[0, 1) years|Not asked or Missing|Never married|4 High school graduate|Rent|Not asked or Missing|Not asked or Missing|Not asked or Missing|Not asked or Missing|Not asked or Missing|Not asked or Missing
+M|Very good|Yes|No|[0, 1) years|Yes|Married|6 College graduate|Group home|Retired|185.0|No|Not asked or Missing|30.0|60.0
+F|Fair|Yes|No|[0, 1) years|Yes|Never married|6 College graduate|Group home|Employed for wages|310.0|No|Not asked or Missing|0|90.0
+M|Very good|Yes|No|[2, 5) years|Yes|Married|5 Some college or technical school|Group home|Employed for wages|220.0|Yes|Not at all|20.0|30.0
+F|Excellent|Yes|No|[0, 1) years|Not asked or Missing|Married|5 Some college or technical school|Group home|A homemaker|124.0|No|Not asked or Missing|0|90.0
+F|Poor|No|No|[0, 1) years|Yes|Married|5 Some college or technical school|Group home|Retired|Not asked or Missing|Not asked or Missing|Not asked or Missing|Not asked or Missing|Not asked or Missing
+F|Excellent|Yes|No|[1, 2) years|Not asked or Missing|Widowed|4 High school graduate|Rent|Employed for wages|147.0|No|Not asked or Missing|0|16.0
+M|Fair|Yes|No|[0, 1) years|Not asked or Missing|Never married|4 High school graduate|Rent|Employed for wages|150.0|Yes|Some days|12.0|28.0
+M|Fair|Yes|No|[0, 1) years|Yes|Married|6 College graduate|Group home|Retired|212.0|No|Not asked or Missing|12.0|30.0
+M|Good|Yes|No|[0, 1) years|Not asked or Missing|Never married|5 Some college or technical school|Other|A student|120.0|Not asked or Missing|Not asked or Missing|Not asked or Missing|Not asked or Missing
+M|Very good|Yes|No|[0, 1) years|Not asked or Missing|Married|5 Some college or technical school|Group home|Employed for wages|195.0|No|Not asked or Missing|8.0|90.0
+M|Very good|Yes|No|[0, 1) years|Yes|Married|6 College graduate|Group home|Employed for wages|213.0|Yes|Not at all|8.0|60.0
+M|Very good|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|Employed for wages|165.0|No|Not asked or Missing|4.0|16.0
+F|Good|Yes|Yes|[1, 2) years|Yes|Married|6 College graduate|Group home|Employed for wages|189.0|No|Not asked or Missing|0|90.0
+M|Good|Yes|No|[0, 1) years|Yes|Divorced|6 College graduate|Group home|Retired|220.0|No|Not asked or Missing|0|15.0
+F|Very good|Yes|No|[0, 1) years|Not asked or Missing|Never married|6 College graduate|Group home|Out of work for 1 year or more|195.0|No|Not asked or Missing|0|60.0
+F|Excellent|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|Employed for wages|300.0|Yes|Not at all|0|20.0
+M|Good|Yes|No|[0, 1) years|Not asked or Missing|Married|4 High school graduate|Group home|Employed for wages|9999.0|No|Not asked or Missing|30.0|60.0
+M|Good|Yes|No|[0, 1) years|Yes|Divorced|6 College graduate|Rent|Self-employed|210.0|Yes|Not at all|5.0|10.0
+M|Excellent|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|Retired|178.0|No|Not asked or Missing|8.0|60.0
+M|Good|Yes|No|[0, 1) years|Not asked or Missing|Married|5 Some college or technical school|Group home|Retired|210.0|Yes|Not at all|20.0|10.0
+M|Good|Yes|No|[1, 2) years|Not asked or Missing|Never married|5 Some college or technical school|Rent|Employed for wages|250.0|No|Not asked or Missing|6.0|5.0
+F|Very good|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|Self-employed|174.0|No|Not asked or Missing|4.0|60.0
+F|Good|Yes|No|[0, 1) years|Not asked or Missing|Never married|5 Some college or technical school|Rent|Employed for wages|140.0|No|Not asked or Missing|10.0|30.0
+M|Good|Yes|No|[0, 1) years|Yes|Married|6 College graduate|Group home|Employed for wages|150.0|Yes|Not at all|30.0|60.0
+F|Good|Yes|No|[0, 1) years|Yes|Widowed|5 Some college or technical school|Group home|Retired|175.0|Yes|Not at all|3.0|2.0
+M|Very good|Yes|No|[0, 1) years|Not asked or Missing|Divorced|6 College graduate|Group home|Retired|150.0|Yes|Every day|0|60.0
+M|Very good|Yes|No|[2, 5) years|Not asked or Missing|Married|6 College graduate|Group home|Retired|250.0|Yes|Not at all|0|12.0
+M|Very good|Yes|No|[2, 5) years|Not asked or Missing|Married|4 High school graduate|Group home|Retired|210.0|No|Not asked or Missing|4.0|40.0
+F|Fair|Yes|No|[0, 1) years|Not asked or Missing|Married|4 High school graduate|Group home|Employed for wages|168.0|Yes|Every day|1.0|16.0
+F|Very good|Yes|No|[0, 1) years|Not asked or Missing|Divorced|6 College graduate|Group home|Retired|185.0|Yes|Not at all|2.0|12.0
+F|Very good|Yes|No|[0, 1) years|Yes|Widowed|4 High school graduate|Group home|Employed for wages|133.0|Yes|Not at all|0|28.0
+F|Good|Yes|No|[0, 1) years|Yes|Widowed|6 College graduate|Group home|A homemaker|175.0|Yes|Not at all|20.0|12.0
+F|Very good|Yes|No|[0, 1) years|Yes|Never married|6 College graduate|Group home|Retired|Not asked or Missing|Not asked or Missing|Not asked or Missing|Not asked or Missing|Not asked or Missing
+F|Very good|Yes|Yes|5+ years|Not asked or Missing|Divorced|5 Some college or technical school|Group home|Self-employed|180.0|No|Not asked or Missing|16.0|60.0
+M|Excellent|Yes|No|[0, 1) years|Not asked or Missing|Divorced|4 High school graduate|Rent|Employed for wages|153.0|No|Not asked or Missing|0|60.0
+M|Fair|Yes|No|[2, 5) years|Not asked or Missing|Never married|5 Some college or technical school|Other|A homemaker|195.0|Yes|Some days|24.0|4.0
+F|Good|Yes|No|[0, 1) years|Yes|Never married|6 College graduate|Rent|Employed for wages|9141.0|No|Not asked or Missing|4.0|900.0
+M|Good|Yes|Yes|[0, 1) years|Borderline high|Married|5 Some college or technical school|Group home|Retired|310.0|Yes|Not at all|1.0|12.0
+M|Fair|Yes|No|[0, 1) years|Yes|Never married|4 High school graduate|Rent|Unable to work|190.0|Yes|Every day|0|1.0
+M|Good|Yes|No|[0, 1) years|Not asked or Missing|Married|4 High school graduate|Group home|Retired|260.0|Yes|Some days|0|30.0
+F|Very good|Yes|No|[0, 1) years|Not asked or Missing|Married|5 Some college or technical school|Group home|Retired|150.0|No|Not asked or Missing|0|28.0
+M|Good|Yes|No|5+ years|Not asked or Missing|Never married|4 High school graduate|Rent|Employed for wages|145.0|No|Not asked or Missing|6.0|30.0
+M|Good|Yes|No|[0, 1) years|Yes|Separated|3 Some high school|Group home|Out of work for less than 1 year|205.0|No|Not asked or Missing|1.0|8.0
+M|Excellent|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|Employed for wages|200.0|No|Not asked or Missing|0|90.0
+M|Good|Yes|No|[0, 1) years|Yes|Married|5 Some college or technical school|Group home|Unable to work|250.0|Yes|Not at all|0|4.0
+M|Good|Yes|No|[0, 1) years|Yes|Widowed|6 College graduate|Rent|Retired|179.0|Yes|Not at all|4.0|8.0
+M|Very good|Yes|No|[0, 1) years|Yes|Married|6 College graduate|Group home|Retired|250.0|No|Not asked or Missing|30.0|8.0
+F|Good|Yes|No|[0, 1) years|Yes|Married|6 College graduate|Group home|Retired|167.0|Yes|Every day|0|120.0
+F|Excellent|Yes|No|[1, 2) years|Not asked or Missing|Married|6 College graduate|Group home|Employed for wages|190.0|No|Not asked or Missing|6.0|16.0
+M|Excellent|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|Employed for wages|180.0|No|Not asked or Missing|5.0|30.0
+F|Very good|Yes|No|[0, 1) years|Not asked or Missing|Married|5 Some college or technical school|Group home|Retired|134.0|No|Not asked or Missing|0|Don’t know/Not sure
+F|Good|Yes|No|[0, 1) years|Not asked or Missing|Never married|5 Some college or technical school|Rent|Employed for wages|155.0|Yes|Every day|5.0|Not asked or Missing
+M|Very good|Yes|No|[0, 1) years|Not asked or Missing|Married|4 High school graduate|Group home|Employed for wages|190.0|Yes|Not at all|Not asked or Missing|Not asked or Missing
+F|Very good|Yes|No|[0, 1) years|Not asked or Missing|Married|5 Some college or technical school|Group home|Retired|130.0|No|Not asked or Missing|0|30.0
+F|Poor|No|Yes|[0, 1) years|Not asked or Missing|Married|3 Some high school|Rent|Employed for wages|160.0|No|Not asked or Missing|1.0|8.0
+F|Excellent|Yes|No|5+ years|Not asked or Missing|Married|5 Some college or technical school|Rent|Employed for wages|170.0|No|Not asked or Missing|2.0|12.0
+M|Very good|Yes|No|5+ years|Not asked or Missing|Married|6 College graduate|Group home|Employed for wages|145.0|No|Not asked or Missing|1.0|12.0
+F|Very good|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|Employed for wages|180.0|No|Not asked or Missing|0|90.0
+M|Fair|No|No|[2, 5) years|Not asked or Missing|Never married|5 Some college or technical school|Rent|Employed for wages|180.0|Yes|Not at all|4.0|4.0
+F|Good|Yes|No|[0, 1) years|Yes|Never married|4 High school graduate|Rent|Retired|145.0|No|Not asked or Missing|2.0|30.0
+F|Good|Yes|No|[0, 1) years|Yes, only during pregnancy|Married|4 High school graduate|Group home|Retired|165.0|Yes|Not at all|0|20.0
+F|Very good|Yes|Yes|[1, 2) years|Not asked or Missing|Never married|5 Some college or technical school|Rent|A student|190.0|No|Not asked or Missing|1.0|3.0
+F|Very good|Yes|No|[1, 2) years|Not asked or Missing|Never married|5 Some college or technical school|Rent|Unable to work|140.0|No|Not asked or Missing|8.0|10.0
+M|Excellent|Yes|No|[0, 1) years|Yes|Widowed|6 College graduate|Group home|Retired|150.0|No|Not asked or Missing|2.0|Not asked or Missing
+F|Excellent|Yes|No|[0, 1) years|Yes, only during pregnancy|Married|6 College graduate|Group home|Employed for wages|140.0|No|Not asked or Missing|0|60.0
+F|Good|Yes|No|[0, 1) years|Not asked or Missing|Married|4 High school graduate|Group home|Retired|120.0|No|Not asked or Missing|0|4.0
+M|Good|No|No|[0, 1) years|Not asked or Missing|Divorced|4 High school graduate|Rent|Self-employed|210.0|Yes|Some days|1.0|5.0
+M|Fair|Yes|No|5+ years|Yes|Never married|4 High school graduate|Rent|Out of work for less than 1 year|160.0|No|Not asked or Missing|1.0|5.0
+M|Very good|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Rent|Employed for wages|165.0|No|Not asked or Missing|0|90.0
+F|Very good|Yes|No|[0, 1) years|Not asked or Missing|Separated|5 Some college or technical school|Rent|Employed for wages|196.0|Yes|Not at all|1.0|8.0
+M|Very good|Yes|No|[0, 1) years|Yes|Married|5 Some college or technical school|Group home|Retired|9095.0|Yes|Not at all|20.0|4.0
+F|Very good|Yes|No|[0, 1) years|Not asked or Missing|Married|5 Some college or technical school|Group home|Self-employed|120.0|No|Not asked or Missing|0|90.0
+F|Good|Yes|No|[0, 1) years|Yes|Married|4 High school graduate|Group home|Self-employed|250.0|No|Not asked or Missing|0|90.0
+M|Poor|Yes|No|[1, 2) years|Yes|Married|5 Some college or technical school|Rent|Retired|275.0|Yes|Not at all|0|15.0
+M|Good|Yes|No|[0, 1) years|Not asked or Missing|Married|3 Some high school|Rent|Employed for wages|195.0|Yes|Not at all|0|30.0
+M|Good|Yes|No|[0, 1) years|Not asked or Missing|Married|5 Some college or technical school|Group home|Employed for wages|220.0|Yes|Not at all|0|60.0
+F|Very good|Yes|No|[2, 5) years|Not asked or Missing|Married|6 College graduate|Group home|Retired|155.0|Yes|Not at all|30.0|60.0
+F|Good|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|Retired|159.0|Yes|Not at all|30.0|30.0
+M|Excellent|Yes|No|5+ years|Not asked or Missing|Divorced|6 College graduate|Group home|Self-employed|195.0|No|Not asked or Missing|0|12.0
+F|Very good|Yes|No|[0, 1) years|Yes|Married|4 High school graduate|Group home|Employed for wages|Not asked or Missing|Not asked or Missing|Not asked or Missing|Not asked or Missing|Not asked or Missing
+F|Very good|No|No|5+ years|Not asked or Missing|Married|5 Some college or technical school|Group home|A homemaker|150.0|Yes|Some days|2.0|30.0
+M|Excellent|Yes|No|[0, 1) years|Yes|Married|5 Some college or technical school|Group home|Self-employed|250.0|No|Not asked or Missing|20.0|5.0
+M|Very good|Yes|No|[1, 2) years|Yes|Never married|5 Some college or technical school|Group home|Employed for wages|325.0|No|Not asked or Missing|0|8.0
+F|Good|Yes|No|[0, 1) years|Yes|Widowed|5 Some college or technical school|Rent|Retired|135.0|No|Not asked or Missing|0|60.0
+M|Very good|Yes|No|[0, 1) years|Not asked or Missing|Never married|5 Some college or technical school|Group home|Self-employed|195.0|No|Not asked or Missing|1.0|Never
+F|Excellent|Yes|No|[0, 1) years|Not asked or Missing|Never married|6 College graduate|Other|Employed for wages|135.0|No|Not asked or Missing|7.0|90.0
+M|Good|Yes|No|[1, 2) years|Yes|Married|6 College graduate|Rent|Refused|195.0|No|Not asked or Missing|20.0|16.0
+F|Excellent|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|Employed for wages|150.0|Yes|Not at all|5.0|15.0
+M|Very good|Yes|No|[0, 1) years|Not asked or Missing|Widowed|4 High school graduate|Group home|Retired|195.0|Yes|Not at all|0|30.0
+F|Very good|Yes|No|[0, 1) years|Yes|Married|4 High school graduate|Group home|Retired|170.0|No|Not asked or Missing|0|8.0
+M|Good|Yes|No|[2, 5) years|Not asked or Missing|Married|6 College graduate|Group home|Retired|180.0|No|Not asked or Missing|0|30.0
+F|Very good|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|Employed for wages|160.0|Yes|Not at all|4.0|0.0
+F|Very good|Yes|No|[1, 2) years|Yes|Married|6 College graduate|Group home|Retired|187.0|Yes|Not at all|4.0|60.0
+F|Good|No|Yes|[0, 1) years|Yes|Separated|6 College graduate|Group home|Out of work for 1 year or more|175.0|No|Not asked or Missing|1.0|16.0
+M|Good|Yes|No|Don’t know/Not sure|Yes|Never married|5 Some college or technical school|Group home|Employed for wages|260.0|No|Not asked or Missing|30.0|30.0
+F|Good|Yes|No|[0, 1) years|Yes|Widowed|6 College graduate|Group home|Retired|174.0|Yes|Every day|20.0|16.0
+F|Very good|Yes|No|[0, 1) years|Not asked or Missing|Divorced|6 College graduate|Group home|Employed for wages|275.0|No|Not asked or Missing|4.0|16.0
+F|Good|Yes|No|[0, 1) years|Yes|Married|4 High school graduate|Group home|A homemaker|9999.0|Yes|Not at all|Refused|30.0
+M|Very good|Yes|No|[1, 2) years|Not asked or Missing|Never married|5 Some college or technical school|Rent|Employed for wages|225.0|No|Not asked or Missing|8.0|Not asked or Missing
+M|Excellent|Yes|No|[0, 1) years|Not asked or Missing|Never married|4 High school graduate|Group home|Employed for wages|140.0|Yes|Not at all|10.0|Not asked or Missing
+F|Excellent|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|Employed for wages|190.0|No|Not asked or Missing|0|30.0
+F|Fair|Yes|No|[0, 1) years|Yes|Widowed|5 Some college or technical school|Group home|Unable to work|238.0|Yes|Every day|5.0|4.0
+F|Very good|No|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|Employed for wages|120.0|No|Not asked or Missing|15.0|30.0
+F|Very good|Yes|No|[1, 2) years|Not asked or Missing|A member of an unmarried couple|6 College graduate|Rent|Employed for wages|125.0|No|Not asked or Missing|15.0|15.0
+M|Good|No|No|[2, 5) years|Not asked or Missing|Married|4 High school graduate|Rent|Out of work for less than 1 year|Not asked or Missing|Not asked or Missing|Not asked or Missing|Not asked or Missing|Not asked or Missing
+M|Very good|Yes|No|[0, 1) years|Not asked or Missing|Never married|4 High school graduate|Group home|Retired|150.0|No|Not asked or Missing|1.0|Never
+M|Very good|No|No|[2, 5) years|Not asked or Missing|Married|4 High school graduate|Group home|Employed for wages|210.0|No|Not asked or Missing|1.0|16.0
+M|Very good|No|No|[2, 5) years|Yes|Divorced|6 College graduate|Group home|Self-employed|174.0|No|Not asked or Missing|5.0|15.0
+F|Excellent|Yes|No|[0, 1) years|Not asked or Missing|Divorced|6 College graduate|Group home|Retired|143.0|No|Not asked or Missing|8.0|30.0
+M|Fair|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|Retired|250.0|Yes|Not at all|15.0|60.0
+F|Fair|Yes|No|[0, 1) years|Yes|Married|6 College graduate|Other|Self-employed|182.0|No|Not asked or Missing|0|60.0
+M|Very good|Yes|No|[0, 1) years|Not asked or Missing|Married|5 Some college or technical school|Group home|Employed for wages|220.0|No|Not asked or Missing|4.0|30.0
+M|Poor|Yes|No|[0, 1) years|Yes|A member of an unmarried couple|4 High school graduate|Group home|Unable to work|250.0|Not asked or Missing|Not asked or Missing|Not asked or Missing|Not asked or Missing
+F|Excellent|Yes|No|[0, 1) years|Not asked or Missing|Divorced|6 College graduate|Group home|Retired|115.0|No|Not asked or Missing|0|30.0
+F|Good|Yes|No|[0, 1) years|Not asked or Missing|A member of an unmarried couple|4 High school graduate|Group home|Employed for wages|160.0|Yes|Every day|3.0|30.0
+F|Excellent|Yes|No|[0, 1) years|Yes|Married|5 Some college or technical school|Group home|Retired|9999.0|No|Not asked or Missing|1.0|60.0
+M|Good|Yes|No|[1, 2) years|Not asked or Missing|Married|5 Some college or technical school|Group home|Out of work for 1 year or more|220.0|Yes|Not at all|5.0|8.0
+M|Fair|Yes|No|[0, 1) years|Yes|Divorced|5 Some college or technical school|Group home|Unable to work|300.0|Yes|Some days|1.0|4.0
+M|Very good|Yes|No|[0, 1) years|Not asked or Missing|Married|5 Some college or technical school|Group home|Retired|319.0|No|Not asked or Missing|0|Don’t know/Not sure
+M|Poor|Yes|No|[0, 1) years|Not asked or Missing|Married|3 Some high school|Rent|Employed for wages|180.0|No|Not asked or Missing|0|150.0
+F|Good|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|Self-employed|180.0|Yes|Not at all|3.0|60.0
+M|Good|Yes|No|[0, 1) years|Not asked or Missing|Never married|6 College graduate|Group home|Employed for wages|180.0|Yes|Not at all|28.0|60.0
+M|Excellent|Yes|No|[1, 2) years|Yes|Married|6 College graduate|Group home|Retired|179.0|Yes|Not at all|0|90.0
+M|Good|Yes|No|[0, 1) years|Yes|Never married|4 High school graduate|Group home|Employed for wages|230.0|Yes|Not asked or Missing|Not asked or Missing|Not asked or Missing
+F|Good|Yes|No|[1, 2) years|Not asked or Missing|Never married|4 High school graduate|Rent|Employed for wages|245.0|Yes|Not at all|0|Never
+M|Fair|Yes|No|[0, 1) years|Not asked or Missing|Married|5 Some college or technical school|Group home|Retired|210.0|Yes|Not at all|0|15.0
+M|Very good|Yes|No|[0, 1) years|Not asked or Missing|Married|4 High school graduate|Rent|Employed for wages|174.0|No|Not asked or Missing|2.0|30.0
+F|Very good|Yes|No|[0, 1) years|Not asked or Missing|Never married|5 Some college or technical school|Other|A student|130.0|No|Not asked or Missing|2.0|30.0
+F|Fair|Yes|No|[1, 2) years|Yes|Divorced|6 College graduate|Rent|Self-employed|144.0|No|Not asked or Missing|0|60.0
+M|Good|Yes|No|[0, 1) years|Yes|Married|5 Some college or technical school|Group home|Employed for wages|150.0|Yes|Not at all|1.0|30.0
+M|Fair|Yes|No|[0, 1) years|Yes|Separated|6 College graduate|Rent|Employed for wages|260.0|No|Not asked or Missing|0|30.0
+M|Good|Yes|No|[0, 1) years|Yes|Married|5 Some college or technical school|Other|Retired|290.0|Yes|Not at all|Not asked or Missing|Not asked or Missing
+F|Good|Yes|Yes|[0, 1) years|Yes|Married|5 Some college or technical school|Group home|Employed for wages|7777.0|No|Not asked or Missing|2.0|30.0
+F|Good|Yes|No|[0, 1) years|Not asked or Missing|Widowed|4 High school graduate|Group home|Self-employed|220.0|Yes|Every day|0|10.0
+F|Good|No|No|[0, 1) years|Yes|Widowed|2 Elementary|Rent|A homemaker|160.0|Yes|Not at all|0|Not asked or Missing
+M|Very good|Yes|No|[0, 1) years|Yes|Divorced|2 Elementary|Rent|Unable to work|179.0|No|Not asked or Missing|0|Never
+M|Very good|Yes|No|[1, 2) years|Not asked or Missing|Widowed|6 College graduate|Group home|Employed for wages|9999.0|Yes|Not at all|1.0|8.0
+M|Very good|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|Employed for wages|160.0|No|Not asked or Missing|4.0|30.0
+F|Very good|Yes|No|[0, 1) years|Yes|Divorced|4 High school graduate|Rent|Employed for wages|140.0|No|Not asked or Missing|0|150.0
+M|Fair|Yes|No|[0, 1) years|Yes|Widowed|5 Some college or technical school|Group home|Unable to work|200.0|Yes|Not at all|0|25.0
+F|Good|Yes|No|[0, 1) years|Not asked or Missing|Refused|4 High school graduate|Other|Employed for wages|9999.0|Not asked or Missing|Not asked or Missing|Not asked or Missing|Not asked or Missing
+F|Excellent|Yes|Yes|[1, 2) years|Not asked or Missing|Never married|5 Some college or technical school|Other|A student|185.0|No|Not asked or Missing|2.0|12.0
+M|Poor|Yes|No|[0, 1) years|Yes|Married|6 College graduate|Group home|Retired|150.0|No|Not asked or Missing|0|120.0
+F|Good|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|Employed for wages|160.0|Yes|Not at all|5.0|Not asked or Missing
+F|Good|Yes|No|[0, 1) years|Yes|A member of an unmarried couple|5 Some college or technical school|Other|A student|200.0|Yes|Every day|12.0|20.0
+F|Very good|Yes|No|[0, 1) years|Not asked or Missing|Divorced|6 College graduate|Group home|Employed for wages|150.0|No|Not asked or Missing|0|30.0
+M|Excellent|Yes|No|5+ years|Not asked or Missing|Married|3 Some high school|Group home|Employed for wages|185.0|No|Not asked or Missing|1.0|30.0
+M|Poor|Yes|No|[0, 1) years|Yes|Married|4 High school graduate|Group home|Retired|350.0|No|Not asked or Missing|4.0|28.0
+M|Good|Yes|No|[0, 1) years|Not asked or Missing|Married|4 High school graduate|Other|Employed for wages|130.0|Yes|Some days|Don’t know/Not sure|30.0
+F|Very good|Yes|No|[0, 1) years|Yes, only during pregnancy|A member of an unmarried couple|4 High school graduate|Group home|A homemaker|130.0|Yes|Every day|0|60.0
+M|Very good|Yes|No|5+ years|Not asked or Missing|Married|4 High school graduate|Group home|Retired|179.0|No|Not asked or Missing|0|30.0
+F|Excellent|Yes|No|Don’t know/Not sure|Not asked or Missing|Widowed|6 College graduate|Group home|Retired|140.0|No|Not asked or Missing|30.0|30.0
+M|Excellent|Yes|No|[0, 1) years|Yes|A member of an unmarried couple|6 College graduate|Group home|Employed for wages|168.0|No|Not asked or Missing|9.0|60.0
+F|Excellent|Yes|No|[0, 1) years|Yes|Widowed|6 College graduate|Group home|Employed for wages|115.0|No|Not asked or Missing|0|30.0
+M|Very good|Yes|No|[0, 1) years|Yes|Divorced|5 Some college or technical school|Group home|Employed for wages|170.0|No|Not asked or Missing|0|30.0
+M|Very good|Yes|No|[0, 1) years|Yes|Divorced|4 High school graduate|Other|Retired|170.0|No|Not asked or Missing|0|30.0
+M|Excellent|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|Employed for wages|165.0|No|Not asked or Missing|2.0|30.0
+M|Excellent|Yes|No|5+ years|Not asked or Missing|Never married|5 Some college or technical school|Group home|Employed for wages|140.0|No|Not asked or Missing|4.0|12.0
+F|Fair|Yes|No|[0, 1) years|Not asked or Missing|Married|4 High school graduate|Group home|Retired|155.0|Yes|Not at all|0|20.0
+M|Don’t know/Not Sure|Yes|No|[0, 1) years|Refused|Married|Refused|Refused|Refused|Not asked or Missing|Not asked or Missing|Not asked or Missing|Not asked or Missing|Not asked or Missing
+M|Excellent|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|Employed for wages|165.0|No|Not asked or Missing|0|20.0
+M|Very good|Yes|No|[0, 1) years|Not asked or Missing|Married|4 High school graduate|Group home|Retired|160.0|No|Not asked or Missing|0|30.0
+F|Very good|Yes|No|[0, 1) years|Yes|Married|5 Some college or technical school|Group home|Retired|150.0|No|Not asked or Missing|0|30.0
+F|Excellent|Yes|No|[1, 2) years|Not asked or Missing|Married|5 Some college or technical school|Group home|Self-employed|9999.0|Not asked or Missing|Not asked or Missing|Not asked or Missing|Not asked or Missing
+M|Good|Yes|No|[0, 1) years|Yes|Divorced|4 High school graduate|Rent|Retired|290.0|Yes|Not at all|0|28.0
+M|Fair|Yes|No|[0, 1) years|Not asked or Missing|Never married|5 Some college or technical school|Group home|Self-employed|240.0|Yes|Every day|0|12.0
+M|Excellent|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|Retired|175.0|Yes|Not at all|0|8.0
+M|Excellent|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|Retired|196.0|No|Not asked or Missing|30.0|30.0
+M|Good|Yes|No|[0, 1) years|Yes|Married|5 Some college or technical school|Group home|Employed for wages|260.0|Yes|Not at all|0|30.0
+M|Good|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Rent|Employed for wages|160.0|Yes|Not at all|2.0|30.0
+M|Very good|Yes|No|[0, 1) years|Not asked or Missing|Widowed|6 College graduate|Group home|Retired|189.0|No|Not asked or Missing|12.0|30.0
+F|Very good|Yes|No|[0, 1) years|Not asked or Missing|Married|4 High school graduate|Group home|Retired|9999.0|No|Not asked or Missing|0|30.0
+F|Good|Yes|No|[0, 1) years|Yes|Married|5 Some college or technical school|Group home|A homemaker|165.0|No|Not asked or Missing|0|12.0
+M|Fair|Yes|No|[0, 1) years|Not asked or Missing|Married|4 High school graduate|Group home|Employed for wages|205.0|Yes|Not at all|0|2.0
+F|Very good|Yes|No|[0, 1) years|Not asked or Missing|Widowed|5 Some college or technical school|Group home|Retired|110.0|No|Not asked or Missing|0|30.0
+F|Excellent|No|Yes|[2, 5) years|Not asked or Missing|Divorced|5 Some college or technical school|Rent|Employed for wages|118.0|No|Not asked or Missing|2.0|60.0
+F|Very good|Yes|No|[0, 1) years|Not asked or Missing|Married|5 Some college or technical school|Group home|Employed for wages|130.0|No|Not asked or Missing|1.0|30.0
+F|Good|Yes|No|[0, 1) years|Yes|Widowed|6 College graduate|Group home|Retired|170.0|Yes|Not at all|2.0|20.0
+F|Very good|Yes|No|[0, 1) years|Not asked or Missing|Married|3 Some high school|Group home|Retired|107.0|Yes|Every day|0|60.0
+M|Very good|Yes|No|[0, 1) years|Not asked or Missing|Married|5 Some college or technical school|Group home|Retired|165.0|No|Not asked or Missing|0|30.0
+F|Good|Yes|No|[0, 1) years|Yes|Married|5 Some college or technical school|Group home|Retired|Not asked or Missing|Not asked or Missing|Not asked or Missing|Not asked or Missing|Not asked or Missing
+M|Poor|Yes|No|[0, 1) years|Yes|Separated|4 High school graduate|Group home|Unable to work|180.0|Yes|Not at all|0|30.0
+M|Good|Yes|No|[0, 1) years|Not asked or Missing|Married|4 High school graduate|Group home|Self-employed|250.0|No|Not asked or Missing|0|Never
+F|Fair|Yes|No|[0, 1) years|Yes|Widowed|4 High school graduate|Rent|Retired|300.0|Yes|Every day|3.0|8.0
+F|Fair|Yes|No|[0, 1) years|Not asked or Missing|Married|5 Some college or technical school|Group home|Self-employed|225.0|Yes|Not at all|4.0|Never
+F|Excellent|Yes|No|[0, 1) years|Not asked or Missing|Never married|6 College graduate|Rent|Employed for wages|135.0|Not asked or Missing|Not asked or Missing|Not asked or Missing|Not asked or Missing
+M|Poor|Yes|Yes|Don’t know/Not sure|Yes|Widowed|5 Some college or technical school|Rent|Unable to work|205.0|No|Not asked or Missing|0|7.0
+F|Very good|No|No|[1, 2) years|Not asked or Missing|Never married|4 High school graduate|Group home|Out of work for less than 1 year|9999.0|No|Not asked or Missing|0|30.0
+F|Very good|Yes|No|[0, 1) years|Yes|Divorced|6 College graduate|Group home|Employed for wages|172.0|Yes|Not at all|27.0|30.0
+M|Excellent|Yes|No|[0, 1) years|Yes|Married|6 College graduate|Group home|Employed for wages|208.0|Yes|Not at all|28.0|1.0
+F|Good|Yes|No|[0, 1) years|Yes|Widowed|4 High school graduate|Group home|Retired|195.0|No|Not asked or Missing|0|60.0
+F|Fair|Yes|No|[0, 1) years|Yes|Widowed|3 Some high school|Rent|Retired|223.0|Don’t know/Not Sure|Not asked or Missing|0|12.0
+F|Very good|Yes|No|[0, 1) years|Not asked or Missing|Married|5 Some college or technical school|Group home|Employed for wages|160.0|Yes|Not at all|12.0|60.0
+M|Very good|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|Retired|168.0|Yes|Not at all|30.0|90.0
+F|Good|Yes|No|[0, 1) years|Not asked or Missing|Never married|5 Some college or technical school|Other|A student|130.0|No|Not asked or Missing|1.0|8.0
+M|Fair|Yes|No|[0, 1) years|Yes|Never married|4 High school graduate|Rent|A homemaker|220.0|No|Not asked or Missing|0|30.0
+M|Very good|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|Retired|190.0|No|Not asked or Missing|20.0|20.0
+M|Fair|Yes|No|[0, 1) years|Yes|Married|5 Some college or technical school|Group home|Retired|160.0|Yes|Not at all|1.0|30.0
+F|Excellent|Yes|Yes|[0, 1) years|Not asked or Missing|Divorced|4 High school graduate|Other|Unable to work|150.0|Yes|Every day|0|30.0
+M|Very good|Yes|No|[0, 1) years|Yes|Married|5 Some college or technical school|Group home|Employed for wages|171.0|Yes|Not at all|15.0|16.0
+F|Poor|Yes|Yes|[0, 1) years|Not asked or Missing|Married|5 Some college or technical school|Group home|Retired|140.0|No|Not asked or Missing|0|90.0
+M|Very good|Yes|No|5+ years|Yes|Married|6 College graduate|Group home|Employed for wages|9999.0|No|Not asked or Missing|20.0|20.0
+M|Excellent|Yes|No|[0, 1) years|Yes|Married|6 College graduate|Group home|Employed for wages|204.0|No|Not asked or Missing|30.0|60.0
+M|Very good|Yes|No|[0, 1) years|Yes|Never married|4 High school graduate|Rent|Self-employed|250.0|Yes|Not at all|30.0|30.0
+M|Very good|Yes|No|5+ years|Not asked or Missing|Married|5 Some college or technical school|Group home|Employed for wages|200.0|Yes|Not at all|8.0|30.0
+M|Fair|Yes|Yes|[1, 2) years|Yes|Married|5 Some college or technical school|Rent|Employed for wages|250.0|Yes|Not at all|0|5.0
+F|Very good|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|Employed for wages|180.0|No|Not asked or Missing|2.0|30.0
+F|Very good|Yes|No|[0, 1) years|Yes|Married|6 College graduate|Group home|Employed for wages|125.0|No|Not asked or Missing|0|30.0
+M|Very good|Yes|No|5+ years|Not asked or Missing|Never married|4 High school graduate|Rent|Employed for wages|170.0|Yes|Every day|3.0|60.0
+F|Very good|Yes|Yes|[1, 2) years|Not asked or Missing|Never married|6 College graduate|Rent|Employed for wages|250.0|No|Not asked or Missing|4.0|28.0
+F|Poor|Yes|No|[0, 1) years|Yes|Married|4 High school graduate|Group home|Retired|300.0|No|Not asked or Missing|0|12.0
+F|Fair|Yes|No|[0, 1) years|Yes|Widowed|6 College graduate|Rent|Retired|149.0|No|Not asked or Missing|0|16.0
+F|Very good|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|Employed for wages|153.0|Yes|Not at all|1.0|60.0
+F|Very good|Yes|No|[0, 1) years|Yes|Married|5 Some college or technical school|Group home|Retired|Not asked or Missing|Not asked or Missing|Not asked or Missing|Not asked or Missing|Not asked or Missing
+F|Very good|Yes|No|[0, 1) years|Not asked or Missing|Married|4 High school graduate|Rent|Employed for wages|182.0|No|Not asked or Missing|0|60.0
+F|Good|No|No|[0, 1) years|Yes|Married|3 Some high school|Rent|Employed for wages|170.0|No|Not asked or Missing|0|90.0
+M|Very good|Yes|No|[0, 1) years|Not asked or Missing|Widowed|4 High school graduate|Rent|Employed for wages|233.0|Not asked or Missing|Not asked or Missing|Not asked or Missing|Not asked or Missing
+F|Good|Yes|No|[0, 1) years|Not asked or Missing|Divorced|6 College graduate|Group home|Retired|124.0|Yes|Not at all|20.0|120.0
+F|Good|Yes|No|[0, 1) years|Not asked or Missing|Married|5 Some college or technical school|Group home|Retired|180.0|Yes|Some days|2.0|5.0
+M|Excellent|Yes|No|[0, 1) years|Not asked or Missing|Married|2 Elementary|Rent|Employed for wages|250.0|No|Not asked or Missing|5.0|4.0
+M|Excellent|Yes|No|[1, 2) years|Not asked or Missing|Married|2 Elementary|Group home|Retired|7777.0|No|Not asked or Missing|0|0.0
+F|Good|Yes|No|[0, 1) years|Yes|Married|5 Some college or technical school|Group home|Out of work for less than 1 year|160.0|No|Not asked or Missing|3.0|30.0
+M|Poor|Yes|No|[0, 1) years|Yes|Married|4 High school graduate|Group home|Retired|Not asked or Missing|Not asked or Missing|Not asked or Missing|Not asked or Missing|Not asked or Missing
+M|Very good|Yes|No|[0, 1) years|Yes|Married|5 Some college or technical school|Group home|Retired|150.0|No|Not asked or Missing|0|30.0
+F|Excellent|Yes|No|[0, 1) years|Not asked or Missing|Widowed|4 High school graduate|Group home|Retired|140.0|No|Not asked or Missing|0|30.0
+F|Fair|Yes|No|[0, 1) years|Yes|Divorced|5 Some college or technical school|Other|Unable to work|186.0|No|Not asked or Missing|0|90.0
+F|Excellent|Yes|No|[0, 1) years|Not asked or Missing|Married|5 Some college or technical school|Group home|Retired|135.0|No|Not asked or Missing|5.0|30.0
+F|Excellent|Yes|No|[0, 1) years|Not asked or Missing|Never married|6 College graduate|Rent|Employed for wages|120.0|No|Not asked or Missing|4.0|30.0
+M|Very good|Yes|No|[1, 2) years|Yes|Never married|6 College graduate|Group home|Employed for wages|176.0|Yes|Not at all|3.0|10.0
+F|Very good|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|Employed for wages|175.0|No|Not asked or Missing|7.0|30.0
+F|Good|Yes|Yes|[0, 1) years|Not asked or Missing|Never married|6 College graduate|Group home|Retired|190.0|No|Not asked or Missing|0|120.0
+M|Very good|Yes|No|[0, 1) years|Yes|Married|6 College graduate|Group home|Retired|275.0|No|Not asked or Missing|0|60.0
+F|Very good|No|No|[0, 1) years|Not asked or Missing|Divorced|5 Some college or technical school|Group home|Self-employed|132.0|No|Not asked or Missing|24.0|60.0
+M|Fair|Yes|No|[0, 1) years|Yes|Widowed|6 College graduate|Group home|Unable to work|169.0|No|Not asked or Missing|0|180.0
+F|Good|Yes|No|[0, 1) years|Not asked or Missing|Divorced|6 College graduate|Group home|Retired|180.0|Yes|Not at all|2.0|20.0
+M|Very good|No|No|[0, 1) years|Yes|Married|6 College graduate|Group home|Employed for wages|230.0|No|Not asked or Missing|4.0|60.0
+M|Excellent|Yes|No|[0, 1) years|Not asked or Missing|Never married|3 Some high school|Group home|Employed for wages|160.0|No|Not asked or Missing|0|90.0
+F|Good|Yes|No|[0, 1) years|Not asked or Missing|Married|5 Some college or technical school|Rent|Retired|170.0|No|Not asked or Missing|0|90.0
+M|Fair|Yes|No|[0, 1) years|Not asked or Missing|Widowed|6 College graduate|Rent|Retired|108.0|No|Not asked or Missing|0|12.0
+M|Excellent|Yes|No|5+ years|Yes|Married|4 High school graduate|Group home|Self-employed|245.0|No|Not asked or Missing|9.0|4.0
+F|Very good|Yes|No|[0, 1) years|Yes|Married|6 College graduate|Group home|Retired|120.0|No|Not asked or Missing|0|20.0
+F|Excellent|Yes|No|[0, 1) years|Not asked or Missing|Never married|5 Some college or technical school|Other|Employed for wages|170.0|No|Not asked or Missing|0|60.0
+M|Good|Refused|Yes|[0, 1) years|Not asked or Missing|Married|4 High school graduate|Group home|Self-employed|Not asked or Missing|Not asked or Missing|Not asked or Missing|Not asked or Missing|Not asked or Missing
+F|Very good|Yes|No|[0, 1) years|Yes|Never married|4 High school graduate|Rent|Retired|240.0|No|Not asked or Missing|0|30.0
+M|Good|No|Yes|Never|Not asked or Missing|Married|4 High school graduate|Rent|Out of work for less than 1 year|175.0|Yes|Every day|10.0|Never
+F|Good|Yes|No|[0, 1) years|Yes|Widowed|6 College graduate|Group home|Retired|180.0|Yes|Not at all|25.0|30.0
+M|Fair|Yes|No|[0, 1) years|Yes|Married|6 College graduate|Group home|Retired|155.0|No|Not asked or Missing|0|4.0
+F|Excellent|Yes|No|[0, 1) years|Not asked or Missing|Never married|6 College graduate|Group home|Employed for wages|134.0|No|Not asked or Missing|1.0|20.0
+M|Very good|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|Employed for wages|242.0|No|Not asked or Missing|0|12.0
+F|Fair|Yes|No|[0, 1) years|Yes|Never married|4 High school graduate|Rent|Unable to work|185.0|No|Not asked or Missing|0|12.0
+F|Excellent|Yes|No|[0, 1) years|Not asked or Missing|Divorced|6 College graduate|Group home|Employed for wages|244.0|No|Not asked or Missing|0|60.0
+F|Fair|Yes|No|[0, 1) years|Not asked or Missing|Widowed|4 High school graduate|Group home|Retired|150.0|No|Not asked or Missing|0|30.0
+M|Good|Yes|No|[0, 1) years|Yes|Married|6 College graduate|Group home|Self-employed|180.0|No|Not asked or Missing|0|12.0
+M|Very good|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Other|Employed for wages|160.0|Yes|Not at all|6.0|12.0
+F|Fair|Yes|No|[0, 1) years|Yes|Divorced|4 High school graduate|Rent|Employed for wages|170.0|No|Not asked or Missing|2.0|60.0
+M|Fair|Yes|No|[0, 1) years|Not asked or Missing|Never married|6 College graduate|Group home|Employed for wages|226.0|No|Not asked or Missing|0|10.0
+M|Excellent|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|Employed for wages|200.0|Yes|Not at all|12.0|60.0
+M|Very good|Yes|No|[0, 1) years|Yes|Married|6 College graduate|Group home|Retired|200.0|No|Not asked or Missing|1.0|90.0
+F|Very good|Yes|No|[0, 1) years|Not asked or Missing|Married|5 Some college or technical school|Group home|Retired|138.0|No|Not asked or Missing|1.0|60.0
+F|Poor|Yes|No|[0, 1) years|Not asked or Missing|Never married|5 Some college or technical school|Rent|Unable to work|231.0|Yes|Not at all|0|Never
+M|Very good|Yes|No|5+ years|Not asked or Missing|Divorced|5 Some college or technical school|Group home|Employed for wages|168.0|Yes|Every day|0|30.0
+F|Good|Yes|No|[0, 1) years|Yes|Married|5 Some college or technical school|Group home|Employed for wages|150.0|Yes|Some days|30.0|Not asked or Missing
+F|Very good|Yes|No|[1, 2) years|Not asked or Missing|Married|5 Some college or technical school|Group home|Employed for wages|150.0|Yes|Not at all|30.0|8.0
+M|Very good|No|No|[0, 1) years|Not asked or Missing|Married|5 Some college or technical school|Group home|Retired|171.0|No|Not asked or Missing|0|90.0
+F|Excellent|Yes|No|Never|Not asked or Missing|Married|4 High school graduate|Group home|Employed for wages|160.0|No|Not asked or Missing|0|12.0
+F|Excellent|Yes|Yes|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|Retired|128.0|No|Not asked or Missing|12.0|60.0
+M|Excellent|Yes|No|[0, 1) years|Yes|Widowed|5 Some college or technical school|Group home|Retired|213.0|Yes|Not at all|0|90.0
+M|Fair|Yes|No|[0, 1) years|Not asked or Missing|Divorced|4 High school graduate|Group home|Unable to work|155.0|No|Not asked or Missing|0|8.0
+M|Good|Yes|No|[0, 1) years|Not asked or Missing|Married|5 Some college or technical school|Group home|Employed for wages|200.0|No|Not asked or Missing|0|2.0
+M|Good|Yes|No|[0, 1) years|Not asked or Missing|Married|5 Some college or technical school|Group home|Employed for wages|195.0|Yes|Not at all|8.0|16.0
+F|Very good|No|Yes|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|A homemaker|142.0|No|Not asked or Missing|4.0|90.0
+M|Very good|No|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|Employed for wages|180.0|Yes|Not at all|0|30.0
+F|Good|Yes|No|[0, 1) years|Yes|Divorced|5 Some college or technical school|Group home|Employed for wages|205.0|No|Not asked or Missing|0|28.0
+M|Very good|Yes|No|[0, 1) years|Yes|Married|6 College graduate|Group home|Employed for wages|167.0|No|Not asked or Missing|0|4.0
+M|Fair|Yes|Yes|[0, 1) years|Yes|Never married|6 College graduate|Group home|Unable to work|225.0|No|Not asked or Missing|20.0|12.0
+F|Good|Yes|No|[0, 1) years|Not asked or Missing|Widowed|4 High school graduate|Group home|Retired|168.0|No|Not asked or Missing|0|20.0
+M|Good|Yes|No|[0, 1) years|Not asked or Missing|Divorced|6 College graduate|Rent|Employed for wages|220.0|Yes|Not at all|6.0|30.0
+F|Fair|Yes|No|[0, 1) years|Yes|Widowed|2 Elementary|Group home|Unable to work|7777.0|No|Not asked or Missing|0|30.0
+F|Good|Yes|No|[0, 1) years|Not asked or Missing|Married|4 High school graduate|Group home|Retired|180.0|No|Not asked or Missing|0|30.0
+M|Fair|No|No|[0, 1) years|Yes|Divorced|6 College graduate|Rent|Retired|125.0|Yes|Not at all|30.0|10.0
+M|Good|Yes|No|[0, 1) years|Not asked or Missing|Married|3 Some high school|Group home|Out of work for 1 year or more|170.0|Not asked or Missing|Not asked or Missing|Not asked or Missing|Not asked or Missing
+M|Very good|Yes|No|[0, 1) years|Not asked or Missing|Never married|5 Some college or technical school|Other|Employed for wages|160.0|No|Not asked or Missing|5.0|30.0
+M|Good|Yes|No|[0, 1) years|Yes|Married|6 College graduate|Group home|Employed for wages|210.0|No|Not asked or Missing|1.0|3.0
+F|Good|Yes|No|[0, 1) years|Not asked or Missing|Never married|6 College graduate|Group home|Retired|185.0|No|Not asked or Missing|0|60.0
+M|Very good|No|No|[0, 1) years|Not asked or Missing|Never married|4 High school graduate|Rent|Out of work for 1 year or more|118.0|No|Not asked or Missing|0|3.0
+M|Good|Yes|No|[0, 1) years|Yes|Married|5 Some college or technical school|Group home|Employed for wages|280.0|Yes|Not at all|2.0|12.0
+F|Excellent|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|Employed for wages|145.0|Yes|Not at all|10.0|30.0
+F|Very good|No|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|Employed for wages|9999.0|No|Not asked or Missing|8.0|12.0
+M|Good|Yes|No|5+ years|Not asked or Missing|Never married|5 Some college or technical school|Rent|Employed for wages|240.0|No|Not asked or Missing|0|28.0
+F|Fair|Yes|No|[0, 1) years|Yes|Divorced|4 High school graduate|Rent|A homemaker|164.0|No|Not asked or Missing|0|30.0
+F|Good|Yes|No|[1, 2) years|Not asked or Missing|Married|6 College graduate|Group home|Employed for wages|135.0|No|Not asked or Missing|0|30.0
+F|Very good|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|Employed for wages|160.0|Yes|Some days|3.0|8.0
+M|Excellent|Yes|No|[1, 2) years|Not asked or Missing|Married|6 College graduate|Group home|Employed for wages|175.0|Not asked or Missing|Not asked or Missing|Not asked or Missing|Not asked or Missing
+F|Very good|Yes|No|[0, 1) years|Yes|Divorced|6 College graduate|Group home|Retired|175.0|Yes|Not at all|5.0|60.0
+F|Good|Yes|No|[0, 1) years|Yes|Married|5 Some college or technical school|Group home|Retired|120.0|No|Not asked or Missing|0|28.0
+M|Good|No|No|[0, 1) years|Not asked or Missing|Married|5 Some college or technical school|Rent|Unable to work|195.0|No|Not asked or Missing|0|2.0
+F|Poor|Yes|Yes|[0, 1) years|Yes|Divorced|2 Elementary|Group home|Unable to work|78.0|Yes|Some days|0|15.0
+M|Excellent|Yes|No|[1, 2) years|Not asked or Missing|Married|6 College graduate|Group home|Retired|210.0|No|Not asked or Missing|5.0|Not asked or Missing
+F|Good|Yes|No|[0, 1) years|Not asked or Missing|Married|5 Some college or technical school|Group home|Employed for wages|223.0|No|Not asked or Missing|2.0|32.0
+M|Very good|Yes|Yes|5+ years|Not asked or Missing|Never married|6 College graduate|Group home|Out of work for less than 1 year|185.0|No|Not asked or Missing|3.0|28.0
+F|Good|Yes|No|[2, 5) years|Not asked or Missing|Married|4 High school graduate|Group home|Employed for wages|135.0|No|Not asked or Missing|5.0|12.0
+F|Good|Yes|No|[0, 1) years|Yes|Widowed|5 Some college or technical school|Group home|Employed for wages|179.0|No|Not asked or Missing|0|Don’t know/Not sure
+M|Don’t know/Not Sure|Yes|No|5+ years|Not asked or Missing|Never married|6 College graduate|Group home|Self-employed|168.0|Yes|Every day|Refused|30.0
+F|Good|Yes|No|[0, 1) years|Not asked or Missing|Never married|4 High school graduate|Group home|Employed for wages|155.0|No|Not asked or Missing|2.0|90.0
+M|Fair|Yes|No|[0, 1) years|Not asked or Missing|Married|4 High school graduate|Group home|Unable to work|180.0|No|Not asked or Missing|0|30.0
+F|Very good|Yes|No|[1, 2) years|Yes|Widowed|5 Some college or technical school|Group home|Retired|215.0|No|Not asked or Missing|0|12.0
+F|Very good|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|Retired|125.0|Yes|Not at all|20.0|60.0
+M|Good|Yes|No|[1, 2) years|Not asked or Missing|Married|6 College graduate|Group home|Employed for wages|210.0|Yes|Not at all|0|60.0
+M|Very good|Yes|No|[0, 1) years|Yes|Married|6 College graduate|Group home|Employed for wages|190.0|Don’t know/Not Sure|Not asked or Missing|30.0|30.0
+M|Good|Yes|No|[0, 1) years|Yes|Married|6 College graduate|Group home|Retired|225.0|Yes|Not at all|12.0|8.0
+F|Fair|Yes|No|[0, 1) years|Yes|Married|4 High school graduate|Group home|A homemaker|150.0|No|Not asked or Missing|0|30.0
+F|Excellent|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|Self-employed|140.0|No|Not asked or Missing|6.0|60.0
+M|Very good|Yes|No|[2, 5) years|Not asked or Missing|Married|4 High school graduate|Group home|Retired|238.0|Yes|Not at all|25.0|10.0
+F|Excellent|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|Employed for wages|135.0|No|Not asked or Missing|8.0|60.0
+M|Very good|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|Employed for wages|240.0|No|Not asked or Missing|0|8.0
+M|Good|Yes|No|[0, 1) years|Yes|Married|6 College graduate|Group home|Employed for wages|200.0|Yes|Not at all|5.0|30.0
+F|Good|Yes|No|[0, 1) years|Yes|Widowed|4 High school graduate|Group home|Retired|160.0|No|Not asked or Missing|0|16.0
+F|Very good|Yes|No|[1, 2) years|Not asked or Missing|Married|4 High school graduate|Group home|Self-employed|219.0|Yes|Every day|0|8.0
+M|Good|Yes|No|[2, 5) years|Not asked or Missing|Married|5 Some college or technical school|Rent|Employed for wages|197.0|Yes|Every day|30.0|30.0
+F|Good|Yes|No|[0, 1) years|Yes|Widowed|4 High school graduate|Group home|Retired|170.0|Yes|Some days|1.0|28.0
+F|Excellent|Yes|No|[0, 1) years|Not asked or Missing|Divorced|6 College graduate|Rent|Unable to work|190.0|Yes|Every day|1.0|5.0
+F|Good|Yes|No|[0, 1) years|Yes|Married|4 High school graduate|Group home|Employed for wages|180.0|Yes|Not at all|0|90.0
+F|Very good|Yes|No|[0, 1) years|Not asked or Missing|Married|4 High school graduate|Group home|Retired|160.0|Yes|Not at all|0|60.0
+F|Very good|Yes|Yes|[0, 1) years|Not asked or Missing|Never married|4 High school graduate|Other|Self-employed|178.0|Yes|Every day|20.0|12.0
+F|Good|No|No|[0, 1) years|Not asked or Missing|Married|4 High school graduate|Group home|Retired|120.0|No|Not asked or Missing|0|30.0
+M|Very good|Yes|No|[1, 2) years|Not asked or Missing|Married|6 College graduate|Group home|Employed for wages|160.0|No|Not asked or Missing|20.0|12.0
+M|Very good|Yes|No|[0, 1) years|Yes|Married|4 High school graduate|Group home|Employed for wages|180.0|No|Not asked or Missing|0|60.0
+M|Poor|Yes|Yes|Don’t know/Not sure|Not asked or Missing|Widowed|Refused|Refused|Retired|125.0|Yes|Every day|Refused|2.0
+F|Fair|Yes|No|5+ years|Yes|Never married|4 High school graduate|Rent|Employed for wages|181.0|Yes|Not at all|1.0|30.0
+M|Fair|Yes|No|[0, 1) years|Yes|Divorced|4 High school graduate|Other|Unable to work|260.0|Yes|Not at all|8.0|Don’t know/Not sure
+M|Fair|Yes|No|[0, 1) years|Yes|Never married|4 High school graduate|Group home|Unable to work|200.0|Don’t know/Not Sure|Not asked or Missing|0|1.0
+M|Good|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|Retired|198.0|No|Not asked or Missing|0|60.0
+F|Good|Yes|No|[0, 1) years|Yes|Widowed|4 High school graduate|Group home|Retired|191.0|Yes|Not at all|0|60.0
+M|Very good|Yes|No|[1, 2) years|Not asked or Missing|Married|6 College graduate|Group home|Employed for wages|161.0|No|Not asked or Missing|24.0|60.0
+F|Very good|Yes|No|[0, 1) years|Not asked or Missing|Never married|4 High school graduate|Rent|Unable to work|157.0|Yes|Every day|0|30.0
+M|Good|No|No|[2, 5) years|Not asked or Missing|A member of an unmarried couple|4 High school graduate|Rent|Employed for wages|148.0|No|Not asked or Missing|8.0|8.0
+M|Very good|Yes|No|[0, 1) years|Yes|Never married|4 High school graduate|Group home|Self-employed|245.0|Yes|Not at all|0|3.0
+F|Good|Yes|No|[0, 1) years|Not asked or Missing|Never married|5 Some college or technical school|Group home|A student|175.0|No|Not asked or Missing|0|4.0
+F|Very good|Yes|Yes|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|Refused|9999.0|Yes|Not at all|4.0|Not asked or Missing
+F|Fair|No|Yes|[0, 1) years|Yes|A member of an unmarried couple|4 High school graduate|Group home|Employed for wages|220.0|Yes|Not at all|12.0|3.0
+F|Fair|Yes|No|[0, 1) years|Yes|Never married|4 High school graduate|Rent|Retired|172.0|No|Not asked or Missing|0|12.0
+F|Good|Yes|No|[1, 2) years|Not asked or Missing|Married|4 High school graduate|Group home|Self-employed|145.0|No|Not asked or Missing|8.0|60.0
+M|Good|Yes|No|[0, 1) years|Yes|Divorced|5 Some college or technical school|Group home|Retired|190.0|Yes|Not at all|0|30.0
+M|Very good|Yes|No|[0, 1) years|Not asked or Missing|Married|5 Some college or technical school|Group home|Employed for wages|185.0|No|Not asked or Missing|0|16.0
+F|Very good|Yes|No|[0, 1) years|Not asked or Missing|Married|5 Some college or technical school|Group home|Employed for wages|135.0|Not asked or Missing|Not asked or Missing|Not asked or Missing|Not asked or Missing
+F|Very good|Yes|No|[0, 1) years|Yes|Widowed|5 Some college or technical school|Group home|Self-employed|180.0|No|Not asked or Missing|0|60.0
+F|Very good|Yes|No|Don’t know/Not sure|Yes|Widowed|4 High school graduate|Group home|Retired|115.0|No|Not asked or Missing|12.0|30.0
+F|Good|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|Employed for wages|130.0|Yes|Some days|1.0|90.0
+F|Excellent|Yes|No|[0, 1) years|Not asked or Missing|Divorced|5 Some college or technical school|Rent|Employed for wages|Not asked or Missing|Not asked or Missing|Not asked or Missing|Not asked or Missing|Not asked or Missing
+M|Good|No|No|[1, 2) years|Not asked or Missing|Never married|Refused|Rent|Employed for wages|9072.0|No|Not asked or Missing|0|90.0
+F|Fair|Yes|No|[0, 1) years|Not asked or Missing|Never married|5 Some college or technical school|Group home|Unable to work|250.0|No|Not asked or Missing|0|30.0
+M|Very good|Yes|No|[0, 1) years|Not asked or Missing|Married|4 High school graduate|Group home|Employed for wages|220.0|Yes|Every day|5.0|2.0
+M|Excellent|Yes|Yes|[0, 1) years|Yes|Divorced|5 Some college or technical school|Group home|Retired|190.0|Yes|Not at all|4.0|12.0
+M|Very good|Yes|No|[1, 2) years|Not asked or Missing|Married|6 College graduate|Group home|Employed for wages|180.0|No|Not asked or Missing|4.0|30.0
+F|Poor|Yes|No|[0, 1) years|Yes|Married|6 College graduate|Group home|Out of work for 1 year or more|200.0|Yes|Not at all|0|8.0
+M|Excellent|Yes|No|[0, 1) years|Yes|Married|6 College graduate|Group home|Employed for wages|160.0|Yes|Not at all|1.0|120.0
+F|Good|Yes|No|[1, 2) years|Not asked or Missing|Divorced|5 Some college or technical school|Group home|Retired|9999.0|Refused|Not asked or Missing|Refused|30.0
+M|Good|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|Employed for wages|212.0|Yes|Not at all|0|20.0
+F|Good|Yes|No|[0, 1) years|Yes|Divorced|5 Some college or technical school|Group home|Employed for wages|200.0|No|Not asked or Missing|1.0|50.0
+M|Excellent|Yes|No|5+ years|Not asked or Missing|Married|4 High school graduate|Group home|Self-employed|165.0|No|Not asked or Missing|2.0|30.0
+F|Good|Yes|No|[0, 1) years|Not asked or Missing|A member of an unmarried couple|2 Elementary|Rent|Unable to work|175.0|No|Not asked or Missing|0|90.0
+F|Fair|No|No|Never|Not asked or Missing|Married|2 Elementary|Rent|Unable to work|155.0|No|Not asked or Missing|0|90.0
+F|Good|Yes|No|[0, 1) years|Not asked or Missing|Divorced|4 High school graduate|Rent|Retired|140.0|No|Not asked or Missing|1.0|12.0
+F|Fair|Yes|Yes|[0, 1) years|Not asked or Missing|Widowed|3 Some high school|Rent|Unable to work|240.0|Yes|Every day|20.0|Never
+M|Very good|Yes|Yes|[2, 5) years|Not asked or Missing|Never married|4 High school graduate|Rent|Employed for wages|270.0|No|Not asked or Missing|0|30.0
+M|Very good|No|No|5+ years|Not asked or Missing|Married|6 College graduate|Group home|Employed for wages|208.0|No|Not asked or Missing|0|60.0
+F|Very good|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|Retired|150.0|Yes|Not at all|12.0|60.0
+M|Good|Yes|No|[0, 1) years|Yes|Divorced|2 Elementary|Group home|Retired|220.0|Yes|Not at all|0|30.0
+M|Fair|Yes|No|[0, 1) years|Yes|Never married|4 High school graduate|Rent|Unable to work|145.0|Yes|Every day|28.0|8.0
+F|Very good|Yes|No|[0, 1) years|Not asked or Missing|Divorced|5 Some college or technical school|Group home|Retired|120.0|No|Not asked or Missing|0|30.0
+F|Excellent|Yes|No|5+ years|Not asked or Missing|Married|6 College graduate|Group home|A homemaker|128.0|Yes|Not at all|0|30.0
+M|Very good|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|Employed for wages|197.0|No|Not asked or Missing|0|16.0
+F|Fair|Yes|No|[0, 1) years|Yes|Married|5 Some college or technical school|Group home|Refused|131.0|Yes|Not at all|0|Not asked or Missing
+F|Good|Yes|Yes|[1, 2) years|Yes|Never married|6 College graduate|Group home|Employed for wages|230.0|Yes|Every day|4.0|12.0
+M|Very good|Yes|No|[0, 1) years|Yes|Married|5 Some college or technical school|Group home|Self-employed|270.0|No|Not asked or Missing|8.0|10.0
+M|Excellent|Yes|No|[1, 2) years|Yes|Married|6 College graduate|Group home|Employed for wages|190.0|Yes|Not at all|8.0|24.0
+F|Very good|Yes|No|[0, 1) years|Yes|Widowed|4 High school graduate|Group home|Retired|145.0|No|Not asked or Missing|4.0|24.0
+F|Fair|Yes|No|[0, 1) years|Not asked or Missing|Divorced|4 High school graduate|Other|Unable to work|140.0|Yes|Every day|0|4.0
+M|Good|Yes|No|[1, 2) years|Yes|Never married|4 High school graduate|Rent|Unable to work|95.0|No|Not asked or Missing|5.0|30.0
+F|Good|Yes|No|[0, 1) years|Yes|Divorced|4 High school graduate|Group home|Retired|240.0|No|Not asked or Missing|0|5.0
+F|Fair|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|Employed for wages|125.0|Yes|Not at all|0|150.0
+F|Good|Yes|No|[0, 1) years|Not asked or Missing|Divorced|5 Some college or technical school|Group home|Employed for wages|117.0|No|Not asked or Missing|2.0|12.0
+M|Excellent|Yes|No|[0, 1) years|Not asked or Missing|Never married|6 College graduate|Other|Employed for wages|145.0|No|Not asked or Missing|0|8.0
+F|Poor|Yes|Yes|[0, 1) years|Yes|Divorced|5 Some college or technical school|Rent|Retired|81.0|Yes|Some days|0|30.0
+M|Poor|No|Yes|[1, 2) years|Not asked or Missing|Never married|4 High school graduate|Rent|Self-employed|320.0|Yes|Some days|12.0|25.0
+F|Good|Yes|No|[0, 1) years|Not asked or Missing|Widowed|4 High school graduate|Group home|Retired|125.0|No|Not asked or Missing|0|8.0
+F|Good|Yes|No|[2, 5) years|Yes|Divorced|5 Some college or technical school|Group home|Employed for wages|300.0|Yes|Every day|3.0|4.0
+M|Good|Yes|No|[0, 1) years|Not asked or Missing|Separated|5 Some college or technical school|Group home|Employed for wages|155.0|Yes|Not at all|30.0|1.0
+M|Excellent|Yes|No|[0, 1) years|Yes|Married|6 College graduate|Group home|Employed for wages|180.0|No|Not asked or Missing|1.0|30.0
+M|Very good|Yes|No|[1, 2) years|Not asked or Missing|Married|6 College graduate|Group home|Employed for wages|185.0|No|Not asked or Missing|5.0|30.0
+F|Very good|Yes|No|[0, 1) years|Yes|Never married|6 College graduate|Group home|Employed for wages|185.0|Yes|Not at all|28.0|30.0
+F|Good|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|Employed for wages|120.0|No|Not asked or Missing|1.0|20.0
+F|Good|Yes|Yes|[1, 2) years|Not asked or Missing|Married|4 High school graduate|Group home|Self-employed|120.0|Yes|Every day|30.0|5.0
+M|Fair|Yes|No|[0, 1) years|Not asked or Missing|Married|4 High school graduate|Other|Employed for wages|160.0|Yes|Not at all|28.0|12.0
+M|Very good|Yes|No|5+ years|Not asked or Missing|Widowed|6 College graduate|Refused|Employed for wages|175.0|No|Not asked or Missing|0|30.0
+F|Excellent|Yes|No|[0, 1) years|Not asked or Missing|Never married|5 Some college or technical school|Rent|A homemaker|210.0|No|Not asked or Missing|0|60.0
+M|Very good|Yes|No|[1, 2) years|Not asked or Missing|Married|6 College graduate|Group home|Employed for wages|200.0|No|Not asked or Missing|0|Never
+M|Very good|Yes|No|[0, 1) years|Yes|Divorced|5 Some college or technical school|Group home|Retired|180.0|Yes|Not at all|2.0|20.0
+M|Very good|Yes|No|[0, 1) years|Yes|Married|6 College graduate|Group home|Retired|155.0|No|Not asked or Missing|5.0|30.0
+M|Good|Yes|No|[0, 1) years|Yes|Divorced|4 High school graduate|Group home|Self-employed|175.0|Yes|Not at all|30.0|12.0
+M|Good|Yes|No|[0, 1) years|Borderline high|Married|5 Some college or technical school|Group home|Self-employed|200.0|Yes|Not at all|8.0|8.0
+F|Excellent|Yes|No|[0, 1) years|Not asked or Missing|Divorced|6 College graduate|Group home|Employed for wages|160.0|No|Not asked or Missing|0|90.0
+M|Good|No|No|[0, 1) years|Not asked or Missing|Married|4 High school graduate|Rent|Employed for wages|165.0|Yes|Not at all|4.0|30.0
+F|Good|Yes|No|[0, 1) years|Yes|Married|2 Elementary|Rent|Out of work for 1 year or more|185.0|Yes|Not at all|0|8.0
+F|Very good|Yes|No|[0, 1) years|Not asked or Missing|Married|4 High school graduate|Group home|Retired|140.0|Yes|Not at all|0|90.0
+M|Fair|Yes|No|[0, 1) years|Yes|Widowed|5 Some college or technical school|Group home|Retired|216.0|No|Not asked or Missing|4.0|30.0
+F|Good|Yes|No|[0, 1) years|Not asked or Missing|Married|4 High school graduate|Group home|Employed for wages|185.0|No|Not asked or Missing|0|24.0
+F|Very good|Yes|No|[0, 1) years|Yes|Married|5 Some college or technical school|Group home|A homemaker|150.0|No|Not asked or Missing|0|56.0
+M|Very good|Yes|No|[0, 1) years|Yes|Never married|5 Some college or technical school|Group home|Employed for wages|348.0|Yes|Not at all|8.0|30.0
+F|Very good|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|Employed for wages|140.0|No|Not asked or Missing|0|30.0
+M|Very good|Yes|No|[0, 1) years|Yes|Married|4 High school graduate|Group home|Employed for wages|190.0|No|Not asked or Missing|1.0|60.0
+F|Very good|Yes|No|[0, 1) years|Yes|Divorced|6 College graduate|Group home|A homemaker|190.0|Yes|Not at all|1.0|Don’t know/Not sure
+F|Fair|Yes|No|[0, 1) years|Yes|Widowed|4 High school graduate|Group home|Unable to work|147.0|No|Not asked or Missing|0|30.0
+F|Fair|Yes|No|[0, 1) years|Yes|Widowed|5 Some college or technical school|Group home|Retired|158.0|No|Not asked or Missing|0|8.0
+F|Very good|Yes|No|[0, 1) years|Yes|Married|5 Some college or technical school|Group home|Retired|170.0|No|Not asked or Missing|0|30.0
+M|Very good|Yes|No|[0, 1) years|Yes|Married|6 College graduate|Group home|Employed for wages|155.0|Yes|Not at all|2.0|90.0
+F|Excellent|Yes|No|[0, 1) years|Not asked or Missing|Married|4 High school graduate|Group home|A homemaker|145.0|No|Not asked or Missing|0|60.0
+F|Very good|Yes|Yes|[0, 1) years|Not asked or Missing|Married|5 Some college or technical school|Rent|Employed for wages|190.0|No|Not asked or Missing|0|Never
+M|Good|No|Yes|[0, 1) years|Not asked or Missing|Married|4 High school graduate|Group home|Employed for wages|210.0|Yes|Every day|0|Never
+F|Fair|Yes|No|[0, 1) years|Not asked or Missing|Never married|6 College graduate|Rent|Self-employed|9999.0|No|Not asked or Missing|0|30.0
+M|Fair|Yes|No|[0, 1) years|Yes|Married|6 College graduate|Group home|Retired|128.0|No|Not asked or Missing|0|7.0
+M|Good|Yes|No|[0, 1) years|Not asked or Missing|Widowed|4 High school graduate|Group home|Employed for wages|155.0|Yes|Not at all|4.0|Don’t know/Not sure
+M|Good|Yes|No|[1, 2) years|Not asked or Missing|Separated|3 Some high school|Rent|Self-employed|178.0|No|Not asked or Missing|0|4.0
+F|Good|Yes|Yes|[1, 2) years|Yes|Married|6 College graduate|Group home|Retired|172.0|No|Not asked or Missing|0|30.0
+F|Fair|Yes|No|[0, 1) years|Not asked or Missing|Married|5 Some college or technical school|Group home|Unable to work|165.0|Yes|Every day|0|12.0
+M|Good|Yes|No|[0, 1) years|Yes|Married|6 College graduate|Group home|Retired|170.0|No|Not asked or Missing|0|60.0
+M|Poor|Yes|No|[0, 1) years|Yes|A member of an unmarried couple|2 Elementary|Rent|Retired|195.0|Yes|Not at all|0|0.0
+F|Excellent|Yes|No|[0, 1) years|Not asked or Missing|Married|5 Some college or technical school|Group home|Employed for wages|130.0|No|Not asked or Missing|3.0|12.0
+M|Very good|Yes|No|[0, 1) years|Not asked or Missing|Divorced|4 High school graduate|Rent|Self-employed|280.0|No|Not asked or Missing|0|60.0
+M|Very good|Yes|No|[0, 1) years|Yes|Divorced|5 Some college or technical school|Group home|Retired|210.0|Yes|Not at all|0|30.0
+F|Very good|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|Employed for wages|130.0|No|Not asked or Missing|2.0|16.0
+F|Fair|Yes|No|[0, 1) years|Yes|Married|4 High school graduate|Rent|Unable to work|200.0|Yes|Every day|0|12.0
+M|Very good|Yes|No|[1, 2) years|Not asked or Missing|Married|6 College graduate|Rent|Employed for wages|165.0|Not asked or Missing|Not asked or Missing|Not asked or Missing|Not asked or Missing
+M|Very good|Yes|No|[0, 1) years|Yes|Married|4 High school graduate|Group home|Unable to work|186.0|Yes|Not at all|0|30.0
+M|Good|Yes|No|[0, 1) years|Yes|Divorced|4 High school graduate|Group home|Employed for wages|300.0|Yes|Not at all|0|16.0
+F|Poor|Yes|Yes|Never|Not asked or Missing|Married|4 High school graduate|Group home|A homemaker|9999.0|No|Not asked or Missing|1.0|90.0
+F|Good|No|Yes|[0, 1) years|Yes|Never married|6 College graduate|Other|Employed for wages|235.0|No|Not asked or Missing|0|12.0
+M|Fair|Yes|Yes|[1, 2) years|Yes|Divorced|4 High school graduate|Group home|Employed for wages|240.0|Yes|Not at all|0|8.0
+F|Poor|Yes|No|[0, 1) years|Yes|Widowed|4 High school graduate|Rent|Unable to work|130.0|Yes|Not at all|0|60.0
+M|Excellent|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|Employed for wages|162.0|No|Not asked or Missing|1.0|60.0
+F|Good|No|No|[0, 1) years|Not asked or Missing|Refused|Refused|Rent|Refused|130.0|No|Not asked or Missing|0|Refused
+F|Very good|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Rent|Employed for wages|130.0|No|Not asked or Missing|2.0|30.0
+M|Very good|No|No|[1, 2) years|Not asked or Missing|A member of an unmarried couple|4 High school graduate|Rent|Employed for wages|180.0|No|Not asked or Missing|0|90.0
+M|Very good|Yes|No|[0, 1) years|Not asked or Missing|A member of an unmarried couple|5 Some college or technical school|Rent|Employed for wages|168.0|Yes|Not at all|0|4.0
+M|Very good|Yes|Yes|[0, 1) years|Not asked or Missing|Never married|4 High school graduate|Group home|Employed for wages|272.0|Yes|Every day|4.0|20.0
+M|Fair|Yes|No|[0, 1) years|Not asked or Missing|Widowed|5 Some college or technical school|Group home|Retired|103.0|No|Not asked or Missing|0|Never
+M|Good|Yes|No|[0, 1) years|Yes|Married|6 College graduate|Group home|Employed for wages|220.0|No|Not asked or Missing|8.0|16.0
+M|Excellent|Yes|No|5+ years|Not asked or Missing|Married|5 Some college or technical school|Rent|Employed for wages|Not asked or Missing|Not asked or Missing|Not asked or Missing|Not asked or Missing|Not asked or Missing
+F|Good|Yes|No|[0, 1) years|Yes|Married|6 College graduate|Group home|Retired|195.0|Yes|Not at all|1.0|60.0
+M|Good|Yes|No|[0, 1) years|Not asked or Missing|Divorced|6 College graduate|Rent|Retired|230.0|Yes|Not at all|12.0|60.0
+F|Very good|Yes|Yes|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|Employed for wages|242.0|No|Not asked or Missing|0|30.0
+M|Very good|Yes|No|[0, 1) years|Yes|Married|5 Some college or technical school|Rent|Employed for wages|193.0|No|Not asked or Missing|0|16.0
+F|Fair|Yes|No|[0, 1) years|Yes|Married|4 High school graduate|Group home|Retired|125.0|Yes|Not at all|0|30.0
+M|Good|Yes|No|[0, 1) years|Not asked or Missing|Married|4 High school graduate|Group home|Retired|204.0|Yes|Not at all|8.0|60.0
+F|Very good|Yes|No|[0, 1) years|Yes|Never married|5 Some college or technical school|Rent|Unable to work|182.0|Yes|Some days|1.0|Never
+M|Very good|Yes|No|[0, 1) years|Yes|Married|6 College graduate|Group home|Retired|9999.0|Yes|Not at all|0|60.0
+F|Good|Yes|No|[1, 2) years|Yes|Widowed|6 College graduate|Group home|Retired|145.0|No|Not asked or Missing|4.0|30.0
+F|Good|Yes|No|[0, 1) years|Yes|Married|4 High school graduate|Group home|Retired|134.0|Yes|Not at all|8.0|12.0
+M|Excellent|Yes|No|[2, 5) years|Not asked or Missing|Married|6 College graduate|Rent|A student|140.0|No|Not asked or Missing|0|60.0
+F|Good|Yes|No|[0, 1) years|Not asked or Missing|Married|4 High school graduate|Group home|Employed for wages|125.0|Yes|Some days|10.0|16.0
+M|Good|Yes|Yes|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|Retired|173.0|Yes|Not at all|30.0|5.0
+M|Fair|Yes|No|[1, 2) years|Not asked or Missing|Married|4 High school graduate|Group home|Employed for wages|162.0|No|Not asked or Missing|20.0|2.0
+F|Excellent|Yes|No|[1, 2) years|Not asked or Missing|Married|6 College graduate|Group home|Self-employed|200.0|No|Not asked or Missing|12.0|60.0
+F|Very good|Yes|No|[0, 1) years|Yes|Widowed|6 College graduate|Group home|Employed for wages|140.0|No|Not asked or Missing|0|90.0
+F|Very good|Yes|No|[0, 1) years|Not asked or Missing|Never married|5 Some college or technical school|Rent|Employed for wages|130.0|No|Not asked or Missing|0|4.0
+F|Good|Yes|No|[1, 2) years|Yes|Married|5 Some college or technical school|Group home|Employed for wages|148.0|Yes|Not at all|2.0|2.0
+F|Fair|Yes|Yes|[0, 1) years|Not asked or Missing|A member of an unmarried couple|6 College graduate|Rent|Employed for wages|230.0|No|Not asked or Missing|2.0|16.0
+M|Very good|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Rent|Employed for wages|203.0|No|Not asked or Missing|20.0|90.0
+F|Very good|Yes|No|[0, 1) years|Not asked or Missing|Refused|Refused|Refused|A homemaker|140.0|No|Not asked or Missing|4.0|60.0
+F|Very good|Yes|No|[2, 5) years|Not asked or Missing|Divorced|4 High school graduate|Rent|Out of work for 1 year or more|150.0|Yes|Some days|2.0|2.0
+M|Excellent|Yes|No|[0, 1) years|Yes|Married|6 College graduate|Rent|Retired|280.0|Yes|Not at all|5.0|28.0
+F|Good|Yes|No|[0, 1) years|Not asked or Missing|Divorced|6 College graduate|Rent|Employed for wages|9999.0|No|Not asked or Missing|3.0|30.0
+F|Very good|Yes|No|[0, 1) years|Not asked or Missing|Married|5 Some college or technical school|Group home|Employed for wages|200.0|No|Not asked or Missing|4.0|90.0
+M|Fair|Yes|No|[0, 1) years|Yes|Widowed|4 High school graduate|Group home|Retired|230.0|Yes|Not at all|0|60.0
+F|Very good|No|No|[0, 1) years|Not asked or Missing|Divorced|3 Some high school|Rent|Out of work for 1 year or more|172.0|No|Not asked or Missing|0|30.0
+M|Very good|Yes|No|[0, 1) years|Yes|Married|5 Some college or technical school|Group home|Retired|240.0|Yes|Not at all|0|30.0
+F|Very good|Yes|No|[0, 1) years|Not asked or Missing|Married|5 Some college or technical school|Group home|Employed for wages|122.0|Yes|Every day|8.0|12.0
+F|Excellent|Yes|No|[1, 2) years|Not asked or Missing|Married|6 College graduate|Group home|Employed for wages|115.0|No|Not asked or Missing|7.0|30.0
+M|Very good|Yes|No|[0, 1) years|Not asked or Missing|Never married|5 Some college or technical school|Rent|A student|150.0|No|Not asked or Missing|2.0|16.0
+F|Excellent|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|Self-employed|120.0|No|Not asked or Missing|1.0|30.0
+M|Good|No|Yes|Don’t know/Not sure|Yes|Married|5 Some college or technical school|Rent|Self-employed|214.0|No|Not asked or Missing|15.0|8.0
+F|Excellent|Yes|No|[1, 2) years|Not asked or Missing|Divorced|6 College graduate|Group home|Employed for wages|135.0|No|Not asked or Missing|7.0|120.0
+F|Very good|Yes|No|[0, 1) years|Not asked or Missing|Widowed|4 High school graduate|Rent|Retired|180.0|Yes|Not at all|0|60.0
+F|Good|Yes|No|5+ years|Yes|Divorced|4 High school graduate|Group home|Self-employed|200.0|Yes|Every day|Refused|Never
+M|Good|Yes|Yes|[0, 1) years|Yes|Never married|5 Some college or technical school|Rent|Unable to work|250.0|Yes|Some days|1.0|30.0
+M|Excellent|Yes|No|[0, 1) years|Yes|Married|6 College graduate|Group home|Retired|170.0|No|Not asked or Missing|0|300.0
+M|Excellent|Yes|No|[2, 5) years|Not asked or Missing|Married|2 Elementary|Group home|Retired|200.0|No|Not asked or Missing|28.0|Don’t know/Not sure
+M|Good|Yes|No|[0, 1) years|Yes|Married|5 Some college or technical school|Group home|Retired|207.0|No|Not asked or Missing|4.0|90.0
+M|Fair|Yes|No|[0, 1) years|Yes|A member of an unmarried couple|6 College graduate|Group home|Self-employed|220.0|No|Not asked or Missing|0|20.0
+M|Fair|Yes|No|5+ years|Yes|Married|3 Some high school|Group home|Self-employed|250.0|Yes|Every day|0|30.0
+F|Very good|Yes|No|[0, 1) years|Not asked or Missing|Never married|4 High school graduate|Rent|Out of work for 1 year or more|122.0|No|Not asked or Missing|0|60.0
+M|Very good|No|No|[2, 5) years|Not asked or Missing|Married|4 High school graduate|Group home|Self-employed|158.0|Yes|Every day|0|Not asked or Missing
+M|Very good|Yes|No|5+ years|Not asked or Missing|Divorced|6 College graduate|Other|Employed for wages|175.0|Yes|Every day|1.0|30.0
+F|Good|Yes|No|[0, 1) years|Yes|Widowed|5 Some college or technical school|Group home|Retired|200.0|Yes|Not at all|5.0|16.0
+M|Good|Yes|Yes|[0, 1) years|Not asked or Missing|Separated|4 High school graduate|Group home|Unable to work|190.0|No|Not asked or Missing|30.0|0.0
+M|Good|Yes|Yes|5+ years|Yes|A member of an unmarried couple|4 High school graduate|Group home|Employed for wages|220.0|No|Not asked or Missing|0|12.0
+M|Excellent|Yes|No|5+ years|Not asked or Missing|Married|6 College graduate|Group home|Employed for wages|195.0|No|Not asked or Missing|15.0|30.0
+F|Good|Yes|No|[0, 1) years|Yes|Widowed|5 Some college or technical school|Group home|Employed for wages|290.0|No|Not asked or Missing|1.0|20.0
+M|Good|No|No|[2, 5) years|Yes|Divorced|6 College graduate|Group home|Self-employed|180.0|Yes|Not at all|5.0|15.0
+F|Very good|Yes|No|[0, 1) years|Yes|Married|6 College graduate|Group home|Employed for wages|150.0|No|Not asked or Missing|12.0|30.0
+F|Good|Yes|No|[0, 1) years|Not asked or Missing|Married|5 Some college or technical school|Group home|Self-employed|270.0|No|Not asked or Missing|2.0|30.0
+M|Good|Yes|No|[0, 1) years|Yes|A member of an unmarried couple|4 High school graduate|Rent|Employed for wages|170.0|No|Not asked or Missing|0|8.0
+M|Good|Yes|No|[0, 1) years|Yes|Widowed|4 High school graduate|Group home|Retired|180.0|No|Not asked or Missing|5.0|90.0
+M|Very good|Yes|No|[0, 1) years|Yes|Divorced|4 High school graduate|Group home|Employed for wages|152.0|Yes|Not at all|4.0|12.0
+M|Good|Yes|No|[0, 1) years|Not asked or Missing|Divorced|4 High school graduate|Group home|Retired|130.0|Yes|Not at all|0|30.0
+F|Poor|Yes|No|[0, 1) years|Not asked or Missing|Widowed|2 Elementary|Group home|Retired|152.0|No|Not asked or Missing|0|4.0
+F|Excellent|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|Retired|148.0|No|Not asked or Missing|0|30.0
+F|Good|Yes|No|[0, 1) years|Yes|Divorced|6 College graduate|Rent|Employed for wages|200.0|No|Not asked or Missing|4.0|30.0
+M|Good|Yes|No|[0, 1) years|Yes|Widowed|4 High school graduate|Group home|Retired|155.0|Yes|Not at all|0|8.0
+F|Good|Yes|No|[0, 1) years|Not asked or Missing|Divorced|6 College graduate|Group home|Retired|120.0|Yes|Not at all|0|90.0
+F|Poor|Yes|No|[0, 1) years|Not asked or Missing|Widowed|5 Some college or technical school|Group home|Retired|115.0|No|Not asked or Missing|0|Don’t know/Not sure
+F|Very good|Yes|No|[0, 1) years|Not asked or Missing|A member of an unmarried couple|6 College graduate|Other|Employed for wages|105.0|No|Not asked or Missing|0|60.0
+F|Good|Yes|No|[0, 1) years|Yes|Married|6 College graduate|Group home|Retired|150.0|Yes|Not at all|14.0|30.0
+F|Good|Yes|No|[0, 1) years|Yes|Divorced|4 High school graduate|Group home|Self-employed|135.0|No|Not asked or Missing|0|8.0
+M|Good|Yes|Yes|[0, 1) years|Not asked or Missing|Married|4 High school graduate|Rent|Employed for wages|175.0|Yes|Not at all|0|60.0
+M|Very good|Yes|No|[1, 2) years|Not asked or Missing|Refused|6 College graduate|Rent|Employed for wages|180.0|Yes|Not at all|10.0|30.0
+F|Good|Yes|No|[0, 1) years|Not asked or Missing|Separated|3 Some high school|Rent|Employed for wages|135.0|No|Not asked or Missing|0|30.0
+F|Very good|Yes|No|[1, 2) years|Not asked or Missing|Married|6 College graduate|Group home|Employed for wages|120.0|No|Not asked or Missing|8.0|30.0
+F|Poor|No|Yes|[0, 1) years|Not asked or Missing|Divorced|5 Some college or technical school|Other|A student|150.0|No|Not asked or Missing|16.0|3.0
+M|Good|Yes|No|[0, 1) years|Yes|A member of an unmarried couple|4 High school graduate|Rent|Employed for wages|230.0|No|Not asked or Missing|0|1.0
+M|Very good|Yes|No|[0, 1) years|Not asked or Missing|Widowed|6 College graduate|Group home|Retired|175.0|No|Not asked or Missing|12.0|10.0
+F|Excellent|Yes|No|[2, 5) years|Not asked or Missing|Divorced|5 Some college or technical school|Group home|Employed for wages|170.0|No|Not asked or Missing|0|90.0
+F|Very good|No|No|[2, 5) years|Not asked or Missing|Divorced|5 Some college or technical school|Group home|Self-employed|140.0|Yes|Don´t Know/Not Sure|2.0|8.0
+F|Excellent|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|Employed for wages|170.0|No|Not asked or Missing|3.0|8.0
+F|Very good|Don’t know/Not Sure|No|[2, 5) years|Not asked or Missing|Never married|6 College graduate|Other|A student|110.0|No|Not asked or Missing|0|16.0
+F|Excellent|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|Self-employed|Not asked or Missing|Not asked or Missing|Not asked or Missing|Not asked or Missing|Not asked or Missing
+F|Very good|Yes|Yes|[0, 1) years|Not asked or Missing|Never married|5 Some college or technical school|Group home|Employed for wages|190.0|No|Not asked or Missing|0|30.0
+F|Very good|Yes|No|[0, 1) years|Yes|Married|4 High school graduate|Group home|Employed for wages|160.0|Yes|Every day|1.0|30.0
+F|Very good|Yes|No|[0, 1) years|Yes|Never married|5 Some college or technical school|Group home|Employed for wages|185.0|No|Not asked or Missing|4.0|150.0
+M|Excellent|Yes|Yes|[0, 1) years|Yes|Married|4 High school graduate|Rent|Employed for wages|104.0|No|Not asked or Missing|12.0|90.0
+M|Very good|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|Retired|165.0|Yes|Not at all|4.0|20.0
+M|Good|Yes|No|[0, 1) years|Yes|Widowed|6 College graduate|Group home|Retired|205.0|Yes|Not at all|16.0|25.0
+F|Fair|Yes|No|[0, 1) years|Not asked or Missing|A member of an unmarried couple|5 Some college or technical school|Rent|Employed for wages|180.0|No|Not asked or Missing|2.0|Never
+F|Excellent|Yes|No|[0, 1) years|Yes, only during pregnancy|Married|6 College graduate|Group home|Employed for wages|140.0|No|Not asked or Missing|2.0|60.0
+F|Good|Yes|No|[0, 1) years|Not asked or Missing|Divorced|4 High school graduate|Group home|Retired|106.0|Not asked or Missing|Not asked or Missing|Not asked or Missing|Not asked or Missing
+F|Good|Don’t know/Not Sure|No|[0, 1) years|Not asked or Missing|Married|4 High school graduate|Rent|Out of work for less than 1 year|180.0|Yes|Not at all|0|4.0
+F|Poor|Yes|No|[0, 1) years|Not asked or Missing|Widowed|5 Some college or technical school|Group home|Unable to work|287.0|No|Not asked or Missing|0|12.0
+F|Very good|Yes|No|[0, 1) years|Not asked or Missing|Never married|6 College graduate|Rent|Employed for wages|136.0|No|Not asked or Missing|4.0|60.0
+M|Excellent|Yes|No|[0, 1) years|Not asked or Missing|Never married|4 High school graduate|Group home|Employed for wages|193.0|Yes|Every day|4.0|60.0
+F|Good|Yes|No|[0, 1) years|Yes|Widowed|5 Some college or technical school|Group home|Unable to work|200.0|No|Not asked or Missing|1.0|4.0
+M|Poor|Yes|No|[0, 1) years|Yes|Married|5 Some college or technical school|Group home|Retired|167.0|Yes|Not at all|2.0|8.0
+F|Good|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|Employed for wages|100.0|No|Not asked or Missing|2.0|60.0
+F|Good|Yes|No|[0, 1) years|Borderline high|Married|4 High school graduate|Group home|A homemaker|142.0|No|Not asked or Missing|0|30.0
+F|Fair|Yes|No|[0, 1) years|Yes|Divorced|5 Some college or technical school|Group home|Employed for wages|167.0|Yes|Not at all|0|30.0
+F|Fair|Yes|No|[0, 1) years|Not asked or Missing|Married|5 Some college or technical school|Group home|Self-employed|110.0|No|Not asked or Missing|0|60.0
+M|Very good|Yes|No|[0, 1) years|Not asked or Missing|Never married|4 High school graduate|Rent|Retired|151.0|No|Not asked or Missing|0|30.0
+M|Fair|Yes|No|[1, 2) years|Not asked or Missing|Divorced|5 Some college or technical school|Group home|Retired|200.0|No|Not asked or Missing|0|Don’t know/Not sure
+M|Good|Yes|No|5+ years|Not asked or Missing|A member of an unmarried couple|5 Some college or technical school|Rent|Employed for wages|255.0|No|Not asked or Missing|5.0|8.0
+M|Fair|Yes|No|[0, 1) years|Yes|Married|4 High school graduate|Group home|Retired|180.0|Yes|Not at all|0|Not asked or Missing
+M|Very good|No|No|[0, 1) years|Not asked or Missing|Separated|5 Some college or technical school|Rent|Unable to work|190.0|Yes|Some days|Not asked or Missing|Not asked or Missing
+M|Good|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|Employed for wages|170.0|No|Not asked or Missing|20.0|60.0
+M|Excellent|Yes|No|[0, 1) years|Not asked or Missing|Refused|6 College graduate|Group home|Refused|9999.0|No|Not asked or Missing|1.0|30.0
+F|Poor|Yes|Yes|[0, 1) years|Yes|Married|2 Elementary|Group home|Unable to work|180.0|Yes|Every day|0|2.0
+F|Good|Yes|No|[1, 2) years|Yes|Widowed|3 Some high school|Rent|Unable to work|130.0|Yes|Every day|30.0|4.0
+F|Excellent|Yes|No|[1, 2) years|Not asked or Missing|Married|5 Some college or technical school|Group home|Retired|110.0|No|Not asked or Missing|20.0|12.0
+M|Good|Yes|No|[0, 1) years|Yes|Married|6 College graduate|Group home|Employed for wages|225.0|No|Not asked or Missing|0|8.0
+M|Good|Yes|No|[0, 1) years|Yes|Married|6 College graduate|Group home|Retired|218.0|Yes|Not at all|0|Don’t know/Not sure
+F|Excellent|Yes|No|[0, 1) years|Yes|Never married|6 College graduate|Group home|Retired|180.0|No|Not asked or Missing|0|30.0
+F|Poor|Yes|No|[0, 1) years|Not asked or Missing|Divorced|4 High school graduate|Group home|Retired|7777.0|Yes|Not at all|0|30.0
+F|Very good|Yes|No|[0, 1) years|Yes|Married|5 Some college or technical school|Group home|Self-employed|130.0|No|Not asked or Missing|Not asked or Missing|Not asked or Missing
+F|Very good|Yes|No|[0, 1) years|Not asked or Missing|Never married|4 High school graduate|Other|Employed for wages|195.0|No|Not asked or Missing|0|28.0
+F|Excellent|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|Retired|128.0|Yes|Not at all|30.0|30.0
+M|Very good|Yes|No|[0, 1) years|Yes|Married|6 College graduate|Group home|Retired|195.0|Yes|Not at all|10.0|20.0
+F|Good|No|No|[0, 1) years|Not asked or Missing|Separated|3 Some high school|Rent|Unable to work|120.0|Yes|Some days|0|30.0
+M|Very good|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|Out of work for 1 year or more|222.0|Yes|Not at all|5.0|1.0
+F|Good|No|Yes|[1, 2) years|Not asked or Missing|Divorced|4 High school graduate|Group home|Employed for wages|145.0|Yes|Some days|0|3.0
+F|Very good|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|Employed for wages|160.0|Yes|Not at all|8.0|60.0
+F|Fair|Yes|Yes|[1, 2) years|Not asked or Missing|A member of an unmarried couple|4 High school graduate|Rent|Employed for wages|190.0|No|Not asked or Missing|1.0|3.0
+F|Fair|Yes|No|[0, 1) years|Not asked or Missing|Married|4 High school graduate|Group home|Employed for wages|205.0|Not asked or Missing|Not asked or Missing|Not asked or Missing|Not asked or Missing
+M|Good|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|Not asked or Missing|Not asked or Missing|Not asked or Missing|Not asked or Missing|Not asked or Missing|Not asked or Missing
+M|Very good|Yes|No|[0, 1) years|Yes|Widowed|4 High school graduate|Group home|Employed for wages|250.0|No|Not asked or Missing|0|8.0
+F|Fair|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|Employed for wages|160.0|No|Not asked or Missing|0|30.0
+F|Very good|Yes|No|[0, 1) years|Yes|Never married|6 College graduate|Group home|Retired|240.0|Yes|Not at all|8.0|30.0
+M|Good|No|No|5+ years|Not asked or Missing|Married|5 Some college or technical school|Rent|Employed for wages|185.0|No|Not asked or Missing|0|30.0
+F|Very good|Yes|No|[2, 5) years|Yes|Divorced|4 High school graduate|Group home|Self-employed|100.0|Yes|Not at all|0|30.0
+M|Fair|No|Yes|[1, 2) years|Yes|Separated|5 Some college or technical school|Rent|Employed for wages|225.0|Yes|Not at all|0|Not asked or Missing
+M|Good|Yes|No|[0, 1) years|Not asked or Missing|Married|5 Some college or technical school|Group home|Unable to work|174.0|No|Not asked or Missing|0|30.0
+F|Fair|Yes|No|[0, 1) years|Not asked or Missing|Widowed|5 Some college or technical school|Group home|Retired|200.0|Yes|Not at all|0|12.0
+F|Very good|Yes|No|[0, 1) years|Yes|Married|6 College graduate|Group home|Employed for wages|340.0|No|Not asked or Missing|0|30.0
+F|Excellent|Yes|No|[0, 1) years|Not asked or Missing|Married|4 High school graduate|Group home|Retired|125.0|Not asked or Missing|Not asked or Missing|Not asked or Missing|Not asked or Missing
+F|Very good|Yes|No|[0, 1) years|Not asked or Missing|Married|4 High school graduate|Group home|Retired|184.0|Yes|Not at all|0|30.0
+M|Good|Yes|No|[1, 2) years|Yes|Never married|4 High school graduate|Other|Employed for wages|167.0|Yes|Every day|1.0|12.0
+M|Very good|Yes|No|[0, 1) years|Yes|Married|6 College graduate|Group home|Employed for wages|340.0|Yes|Not at all|2.0|30.0
+F|Good|No|No|[2, 5) years|Not asked or Missing|Married|6 College graduate|Group home|A homemaker|Not asked or Missing|Not asked or Missing|Not asked or Missing|Not asked or Missing|Not asked or Missing
+M|Very good|Yes|No|[2, 5) years|Yes|Married|4 High school graduate|Group home|Employed for wages|165.0|Yes|Not at all|10.0|Never
+F|Very good|Yes|No|[1, 2) years|Yes|Married|6 College graduate|Group home|Retired|200.0|Yes|Not at all|28.0|8.0
+F|Very good|Yes|No|[0, 1) years|Yes|Married|4 High school graduate|Group home|Employed for wages|130.0|Yes|Not at all|5.0|10.0
+M|Very good|Yes|No|[0, 1) years|Not asked or Missing|Divorced|6 College graduate|Group home|Employed for wages|190.0|Yes|Not at all|4.0|60.0
+F|Good|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|Retired|156.0|No|Not asked or Missing|6.0|60.0
+F|Fair|Yes|No|[1, 2) years|Yes|Divorced|4 High school graduate|Rent|Retired|7777.0|No|Not asked or Missing|0|8.0
+F|Good|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|Self-employed|200.0|No|Not asked or Missing|25.0|60.0
+F|Very good|Yes|No|[1, 2) years|Not asked or Missing|Refused|5 Some college or technical school|Rent|Out of work for 1 year or more|112.0|Yes|Not at all|0|60.0
+M|Good|Yes|No|5+ years|Not asked or Missing|A member of an unmarried couple|6 College graduate|Group home|Employed for wages|250.0|Yes|Not at all|0|10.0
+F|Poor|Yes|No|[0, 1) years|Not asked or Missing|Married|5 Some college or technical school|Group home|Retired|110.0|Yes|Not at all|1.0|2.0
+F|Fair|Yes|No|[0, 1) years|Yes|Married|4 High school graduate|Group home|Employed for wages|150.0|Yes|Some days|1.0|8.0
+F|Very good|Yes|No|[0, 1) years|Not asked or Missing|Never married|3 Some high school|Rent|Refused|175.0|No|Not asked or Missing|3.0|12.0
+F|Excellent|Yes|No|[0, 1) years|Yes|Married|6 College graduate|Group home|Employed for wages|146.0|No|Not asked or Missing|16.0|30.0
+M|Excellent|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|Self-employed|218.0|Yes|Not at all|30.0|30.0
+F|Very good|Yes|No|[1, 2) years|Not asked or Missing|Married|5 Some college or technical school|Group home|Refused|9999.0|Yes|Not at all|2.0|30.0
+F|Very good|Yes|No|[0, 1) years|Yes|Married|6 College graduate|Group home|Employed for wages|9999.0|Yes|Not at all|30.0|Never
+M|Good|Yes|No|[0, 1) years|Yes|Never married|4 High school graduate|Group home|Retired|220.0|No|Not asked or Missing|20.0|16.0
+F|Very good|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|Retired|95.0|No|Not asked or Missing|0|30.0
+F|Very good|Yes|No|[0, 1) years|Yes|Married|4 High school graduate|Group home|Retired|216.0|No|Not asked or Missing|4.0|12.0
+F|Good|Yes|No|[0, 1) years|Yes|Never married|5 Some college or technical school|Group home|Out of work for 1 year or more|220.0|No|Not asked or Missing|0|30.0
+F|Good|Yes|No|[0, 1) years|Not asked or Missing|Widowed|6 College graduate|Group home|Employed for wages|160.0|Yes|Not at all|0|20.0
+F|Very good|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Rent|Employed for wages|143.0|No|Not asked or Missing|0|12.0
+F|Very good|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|A homemaker|139.0|No|Not asked or Missing|4.0|90.0
+M|Very good|Yes|No|[0, 1) years|Not asked or Missing|Married|5 Some college or technical school|Group home|Employed for wages|200.0|No|Not asked or Missing|5.0|60.0
+M|Excellent|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|Employed for wages|114.0|Yes|Every day|0|90.0
+F|Good|No|Yes|[0, 1) years|Not asked or Missing|Never married|4 High school graduate|Rent|Employed for wages|220.0|Yes|Some days|4.0|28.0
+F|Fair|Yes|No|[0, 1) years|Not asked or Missing|Widowed|4 High school graduate|Rent|Retired|136.0|No|Not asked or Missing|0|Not asked or Missing
+M|Good|Yes|Yes|[0, 1) years|Not asked or Missing|Divorced|4 High school graduate|Rent|Employed for wages|250.0|No|Not asked or Missing|4.0|30.0
+M|Very good|Yes|Yes|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|Employed for wages|260.0|No|Not asked or Missing|2.0|20.0
+M|Fair|Yes|No|[0, 1) years|Yes|Separated|5 Some college or technical school|Group home|Unable to work|367.0|Yes|Not at all|0|20.0
+F|Excellent|Yes|No|[0, 1) years|Not asked or Missing|Divorced|5 Some college or technical school|Rent|Retired|133.0|Yes|Not at all|0|60.0
+F|Very good|Yes|No|[0, 1) years|Yes|Married|6 College graduate|Group home|Retired|131.0|No|Not asked or Missing|21.0|60.0
+F|Excellent|Yes|No|[2, 5) years|Not asked or Missing|Married|4 High school graduate|Group home|Employed for wages|160.0|Yes|Every day|3.0|3.0
+F|Very good|Yes|No|[0, 1) years|Not asked or Missing|Never married|6 College graduate|Group home|A student|130.0|No|Not asked or Missing|0|12.0
+M|Very good|Yes|No|[0, 1) years|Yes|Married|6 College graduate|Rent|Out of work for less than 1 year|150.0|No|Not asked or Missing|4.0|30.0
+M|Very good|Yes|No|[0, 1) years|Not asked or Missing|Married|5 Some college or technical school|Group home|Employed for wages|215.0|No|Not asked or Missing|4.0|30.0
+M|Poor|Yes|No|[0, 1) years|Yes|Widowed|6 College graduate|Group home|Retired|160.0|No|Not asked or Missing|0|90.0
+F|Excellent|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Rent|Employed for wages|150.0|No|Not asked or Missing|0|90.0
+M|Good|Yes|No|[0, 1) years|Yes|Widowed|6 College graduate|Group home|Retired|270.0|Yes|Not at all|0|30.0
+F|Good|Yes|No|[0, 1) years|Yes|Never married|6 College graduate|Group home|Retired|260.0|No|Not asked or Missing|0|12.0
+F|Fair|Yes|No|[0, 1) years|Yes|Married|4 High school graduate|Group home|Retired|181.0|No|Not asked or Missing|0|30.0
+F|Excellent|Yes|No|[0, 1) years|Not asked or Missing|Widowed|6 College graduate|Group home|Retired|125.0|No|Not asked or Missing|0|90.0
+M|Excellent|Yes|No|[2, 5) years|Not asked or Missing|Never married|4 High school graduate|Group home|Employed for wages|180.0|No|Not asked or Missing|1.0|16.0
+M|Fair|Yes|Yes|[0, 1) years|Yes|Married|4 High school graduate|Group home|Unable to work|160.0|Yes|Not at all|1.0|Not asked or Missing
+F|Good|Yes|No|[0, 1) years|Not asked or Missing|Never married|6 College graduate|Rent|Employed for wages|Not asked or Missing|Not asked or Missing|Not asked or Missing|Not asked or Missing|Not asked or Missing
+F|Good|Yes|No|[0, 1) years|Yes|Widowed|4 High school graduate|Group home|Employed for wages|185.0|No|Not asked or Missing|0|16.0
+M|Very good|Yes|No|[0, 1) years|Yes|Married|6 College graduate|Group home|Retired|210.0|No|Not asked or Missing|3.0|20.0
+F|Excellent|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|Self-employed|150.0|No|Not asked or Missing|2.0|30.0
+F|Excellent|Yes|No|[0, 1) years|Not asked or Missing|Married|5 Some college or technical school|Group home|Employed for wages|120.0|No|Not asked or Missing|4.0|40.0
+F|Very good|Yes|No|[0, 1) years|Yes|Married|4 High school graduate|Group home|Retired|132.0|Yes|Not at all|0|4.0
+F|Fair|Yes|No|[0, 1) years|Not asked or Missing|Widowed|4 High school graduate|Rent|Unable to work|151.0|Not asked or Missing|Not asked or Missing|Not asked or Missing|Not asked or Missing
+M|Very good|Yes|No|[0, 1) years|Not asked or Missing|Divorced|4 High school graduate|Group home|Self-employed|162.0|No|Not asked or Missing|2.0|15.0
+M|Fair|No|Yes|[0, 1) years|Yes|Divorced|4 High school graduate|Rent|Out of work for less than 1 year|125.0|Yes|Not at all|4.0|Not asked or Missing
+M|Very good|Yes|No|[0, 1) years|Yes|Married|5 Some college or technical school|Group home|Retired|190.0|Yes|Not at all|20.0|12.0
+M|Excellent|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|Employed for wages|210.0|Yes|Not at all|30.0|90.0
+F|Good|Yes|No|[0, 1) years|Yes|Divorced|5 Some college or technical school|Rent|Retired|158.0|No|Not asked or Missing|1.0|Not asked or Missing
+F|Very good|Yes|No|[0, 1) years|Yes|Divorced|4 High school graduate|Group home|Retired|165.0|Yes|Every day|0|12.0
+M|Excellent|No|No|Never|Not asked or Missing|Married|2 Elementary|Group home|Self-employed|155.0|No|Not asked or Missing|0|60.0
+M|Good|Yes|No|[0, 1) years|Yes|Married|5 Some college or technical school|Group home|Employed for wages|240.0|Yes|Not at all|16.0|8.0
+F|Excellent|Yes|No|[0, 1) years|Borderline high|Married|5 Some college or technical school|Group home|Retired|150.0|No|Not asked or Missing|1.0|30.0
+F|Good|Yes|No|[0, 1) years|Not asked or Missing|Married|4 High school graduate|Group home|A homemaker|158.0|Yes|Not at all|1.0|20.0
+M|Very good|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|Employed for wages|170.0|Yes|Not at all|6.0|60.0
+M|Good|Yes|No|[0, 1) years|Borderline high|Divorced|5 Some college or technical school|Group home|Employed for wages|300.0|Yes|Not at all|5.0|4.0
+M|Good|Yes|No|[0, 1) years|Yes|A member of an unmarried couple|4 High school graduate|Group home|Retired|215.0|No|Not asked or Missing|0|90.0
+F|Good|Yes|No|[0, 1) years|Yes|Divorced|5 Some college or technical school|Other|Employed for wages|207.0|Yes|Not at all|0|30.0
+M|Excellent|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|Employed for wages|163.0|No|Not asked or Missing|12.0|30.0
+M|Very good|Yes|No|[0, 1) years|Yes|Married|6 College graduate|Group home|Retired|171.0|Yes|Not at all|10.0|25.0
+F|Very good|Yes|No|[0, 1) years|Don´t know/Not Sure|Widowed|4 High school graduate|Group home|Retired|150.0|Yes|Not at all|0|30.0
+F|Good|Yes|No|[0, 1) years|Yes|Never married|5 Some college or technical school|Group home|Employed for wages|275.0|No|Not asked or Missing|1.0|24.0
+F|Fair|Yes|Yes|[0, 1) years|Not asked or Missing|Divorced|4 High school graduate|Group home|Self-employed|140.0|No|Not asked or Missing|1.0|Never
+F|Very good|Yes|No|[1, 2) years|Not asked or Missing|Married|6 College graduate|Group home|Retired|121.0|Yes|Not at all|2.0|30.0
+F|Fair|Yes|No|[0, 1) years|Yes|Separated|5 Some college or technical school|Other|Unable to work|190.0|Yes|Not at all|0|4.0
+M|Excellent|Yes|No|[1, 2) years|Not asked or Missing|Married|6 College graduate|Group home|Self-employed|155.0|No|Not asked or Missing|2.0|30.0
+M|Good|Yes|No|[0, 1) years|Yes|Divorced|6 College graduate|Group home|Retired|220.0|Yes|Not at all|30.0|7.0
+M|Good|Yes|No|[0, 1) years|Yes|Married|6 College graduate|Group home|Employed for wages|181.0|No|Not asked or Missing|0|30.0
+F|Excellent|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|Employed for wages|9999.0|No|Not asked or Missing|1.0|90.0
+F|Good|Yes|Yes|[0, 1) years|Not asked or Missing|Married|2 Elementary|Rent|A homemaker|162.0|Yes|Not at all|0|12.0
+F|Good|Yes|Yes|[0, 1) years|Not asked or Missing|Married|5 Some college or technical school|Group home|Employed for wages|235.0|Yes|Every day|3.0|12.0
+F|Good|Yes|No|[0, 1) years|Yes|Never married|6 College graduate|Group home|Out of work for 1 year or more|192.0|No|Not asked or Missing|0|8.0
+F|Fair|Yes|No|[0, 1) years|Yes|Widowed|2 Elementary|Rent|Retired|252.0|No|Not asked or Missing|0|60.0
+F|Good|Yes|No|Don’t know/Not sure|Not asked or Missing|Married|5 Some college or technical school|Group home|Self-employed|200.0|No|Not asked or Missing|0|60.0
+F|Excellent|Yes|No|[0, 1) years|Not asked or Missing|Divorced|6 College graduate|Group home|Self-employed|138.0|No|Not asked or Missing|0|60.0
+M|Good|Yes|No|[2, 5) years|Not asked or Missing|Married|6 College graduate|Rent|Self-employed|170.0|No|Not asked or Missing|4.0|30.0
+F|Poor|Yes|No|[0, 1) years|Yes|Married|2 Elementary|Group home|Unable to work|205.0|No|Not asked or Missing|0|30.0
+M|Good|Yes|No|[0, 1) years|Yes|Married|4 High school graduate|Group home|Retired|281.0|Yes|Every day|1.0|Never
+F|Excellent|Yes|No|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|Employed for wages|124.0|No|Not asked or Missing|3.0|60.0
+F|Excellent|Yes|No|[0, 1) years|Not asked or Missing|Never married|4 High school graduate|Group home|Employed for wages|190.0|No|Not asked or Missing|0|90.0
+M|Excellent|Yes|No|[0, 1) years|Yes|Married|5 Some college or technical school|Group home|Employed for wages|173.0|No|Not asked or Missing|20.0|5.0
+F|Very good|Yes|Yes|[0, 1) years|Not asked or Missing|Married|6 College graduate|Group home|Employed for wages|140.0|No|Not asked or Missing|20.0|150.0
+M|Very good|Yes|No|[0, 1) years|Yes|Married|4 High school graduate|Group home|Self-employed|200.0|Yes|Not at all|0|12.0
+M|Good|Yes|No|[0, 1) years|Not asked or Missing|Married|4 High school graduate|Rent|Self-employed|155.0|No|Not asked or Missing|0|30.0
+F|Good|Yes|Yes|[0, 1) years|Yes|Widowed|5 Some college or technical school|Other|Employed for wages|350.0|No|Not asked or Missing|0|Don’t know/Not sure
+F|Good|Yes|Yes|[0, 1) years|Not asked or Missing|Married|5 Some college or technical school|Rent|Out of work for 1 year or more|140.0|No|Not asked or Missing|0|8.0
+F|Very good|Yes|No|[0, 1) years|Yes|Widowed|5 Some college or technical school|Other|Retired|115.0|No|Not asked or Missing|0|60.0
+F|Very good|Yes|No|[0, 1) years|Yes|Never married|6 College graduate|Group home|Retired|125.0|No|Not asked or Missing|12.0|60.0
+M|Very good|Yes|Yes|[1, 2) years|Not asked or Missing|Never married|5 Some college or technical school|Group home|Employed for wages|178.0|Yes|Not at all|4.0|12.0
+M|Very good|Yes|No|[0, 1) years|Not asked or Missing|Refused|4 High school graduate|Group home|Retired|175.0|No|Not asked or Missing|0|20.0
+M|Excellent|Yes|Yes|[0, 1) years|Not asked or Missing|Widowed|4 High school graduate|Group home|Retired|149.0|No|Not asked or Missing|0|12.0
+F|Good|Yes|No|[0, 1) years|Don´t know/Not Sure|Widowed|4 High school graduate|Group home|Retired|200.0|Yes|Not at all|0|30.0
+F|Good|Yes|No|[0, 1) years|Not asked or Missing|Widowed|6 College graduate|Group home|Retired|9999.0|No|Not asked or Missing|0|30.0
+F|Very good|Yes|No|[0, 1) years|Not asked or Missing|Never married|6 College graduate|Group home|Employed for wages|180.0|No|Not asked or Missing|4.0|60.0
+F|Poor|Yes|No|[0, 1) years|Yes|Widowed|6 College graduate|Group home|Retired|72.0|Yes|Some days|2.0|60.0
+F|Poor|Yes|No|[0, 1) years|Not asked or Missing|Married|3 Some high school|Group home|Retired|185.0|Yes|Not at all|0|6.0
+F|Very good|Yes|Yes|[1, 2) years|Not asked or Missing|Married|5 Some college or technical school|Rent|Not asked or Missing|Not asked or Missing|Not asked or Missing|Not asked or Missing|Not asked or Missing|Not asked or Missing
+F|Very good|Yes|No|[0, 1) years|Yes|Never married|4 High school graduate|Group home|Unable to work|165.0|No|Not asked or Missing|0|60.0
+F|Good|Yes|No|[0, 1) years|Yes|Divorced|4 High school graduate|Group home|Employed for wages|210.0|Yes|Not at all|7.0|4.0
+F|Very good|Yes|No|[0, 1) years|Not asked or Missing|Married|5 Some college or technical school|Group home|A student|145.0|No|Not asked or Missing|0|60.0
+F|Excellent|Yes|No|[0, 1) years|Yes|Never married|4 High school graduate|Group home|Employed for wages|140.0|Yes|Not at all|4.0|10.0
+F|Good|Yes|No|[0, 1) years|Yes|Never married|6 College graduate|Group home|Retired|175.0|No|Not asked or Missing|0|30.0
+F|Fair|Yes|Yes|[0, 1) years|Yes|Widowed|3 Some high school|Group home|Unable to work|140.0|No|Not asked or Missing|0|30.0
+F|Poor|Yes|No|[0, 1) years|Not asked or Missing|Divorced|5 Some college or technical school|Rent|Unable to work|185.0|Yes|Some days|3.0|30.0
+F|Poor|No|No|[0, 1) years|Yes|Widowed|4 High school graduate|Rent|Retired|179.0|No|Not asked or Missing|0|8.0
+M|Good|Yes|No|[0, 1) years|Not asked or Missing|Divorced|4 High school graduate|Group home|Retired|160.0|No|Not asked or Missing|0|60.0
+F|Fair|Yes|No|[0, 1) years|Yes|Never married|4 High school graduate|Group home|Unable to work|7777.0|No|Not asked or Missing|4.0|30.0
+M|Very good|No|No|Never|Not asked or Missing|Never married|4 High school graduate|Other|Refused|7777.0|No|Not asked or Missing|0|30.0
+M|Excellent|Yes|No|[1, 2) years|Not asked or Missing|Married|6 College graduate|Group home|Employed for wages|220.0|Yes|Not at all|8.0|60.0
+F|Good|Yes|No|[0, 1) years|Yes|Widowed|6 College graduate|Group home|Retired|200.0|Yes|Not at all|2.0|30.0
+F|Fair|Yes|No|[0, 1) years|Not asked or Missing|A member of an unmarried couple|6 College graduate|Rent|Employed for wages|200.0|No|Not asked or Missing|4.0|24.0
+F|Good|Yes|No|[0, 1) years|Yes|Married|3 Some high school|Group home|Retired|190.0|Yes|Not at all|0|Don’t know/Not sure
+M|Good|Yes|No|[0, 1) years|Yes|Married|5 Some college or technical school|Group home|Retired|138.0|No|Not asked or Missing|0|60.0
+M|Poor|No|Yes|[0, 1) years|Not asked or Missing|Separated|5 Some college or technical school|Other|Unable to work|165.0|Yes|Not at all|8.0|Never
+M|Very good|Yes|No|[0, 1) years|Yes|Married|6 College graduate|Group home|Employed for wages|247.0|No|Not asked or Missing|0|20.0
+F|Very good|Yes|No|[0, 1) years|Not asked or Missing|Married|5 Some college or technical school|Group home|Employed for wages|255.0|Yes|Every day|0|8.0
+F|Fair|Yes|No|[0, 1) years|Yes|Married|6 College graduate|Group home|Unable to work|150.0|No|Not asked or Missing|0|30.0
+F|Good|Yes|No|[0, 1) years|Not asked or Missing|Married|5 Some college or technical school|Group home|Employed for wages|155.0|No|Not asked or Missing|0|12.0
+M|Very good|Yes|No|[0, 1) years|Yes|Married|4 High school graduate|Group home|Retired|310.0|No|Not asked or Missing|1.0|10.0
