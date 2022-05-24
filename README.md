@@ -31,7 +31,7 @@ In this folder you will find the following files:
 The complete raw dataset LLCP2019ASC.ZIP can be downloaded here: 
 * https://www.cdc.gov/brfss/annual_data/annual_2019.html (click the first link under header "Data Files": **2019 BRFSS Data (ASCII)** ZIP – 66.2 MB)
 
-For more information on 2019 BRFSS Survey Data and Documentation, have you may have a look at:
+For more information on 2019 BRFSS Survey Data and Documentation, you may have a look at:
 * https://www.cdc.gov/brfss/annual_data/2019/pdf/codebook19_llcp-v2-508.HTML
 
 ## Folder CBS
