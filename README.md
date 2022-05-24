@@ -18,6 +18,8 @@ Zet de bestanden (totaal ruim 500 MB wanneer je ook de ruwe datset van de BRFSS-
 
 BRFSS completes more than 400,000 adult interviews each year in the US, making it the largest continuously conducted health survey system in the world.
 
+In this folder you will find the following files:
+
 1. brfss_level_1.csv : size = (10000 rows, 16 cols) --> a nicely decoded sample from the raw BRFSS dataset --> great set to get started!
 2. brfss_level_2.csv : size = (10000 rows, 48 cols) --> equal to #1 but with some more columns
 3. brfss2019_sample_raw.csv : size = (1000 rows, 15 cols) --> this sample from the raw data gives you a good idea how the original coded BRFSS data look like.
@@ -35,6 +37,8 @@ For more information on 2019 BRFSS Survey Data and Documentation, have you may h
 ## Folder CBS
 
 Daar waar BRFSS Amerikaanse data bevat op persoonsnivo, bevat CBS Nederlandse data op diverse aggregatienivo's, o.a. naar regio of wijk.
+
+In deze folder vind je de volgende files:
 
 1. Buurtinformatie.csv : aantal laag, middelbaar en hoog opgeleiden per gemeente, wijk en buurt in Nederland.
 2. Buurtinformatie_Nieuw.csv : idem met update.
