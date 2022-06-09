@@ -3,7 +3,7 @@
 Deze repo bevat de data die je gaat gebruiken op de Hackathon. 
 Aanvullen met je eigen data is meer dan toegestaan maar zeker niet verplicht.
 
-Zet de bestanden (totaal ruim 500 MB wanneer je ook de ruwe datset van de BRFSS-website download) bij voorkeur **voorafgaand** aan de Hackathon op je computer.
+Zet de bestanden (totaal enkele honderden megabytes wanneer je ook de ruwe datset van de BRFSS-website download) bij voorkeur **voorafgaand** aan de Hackathon op je computer.
 
 # Download instructies
 
